@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /lib/
+Disallow: /vendors/
+Disallow: /controller/
+Allow: /
+Sitemap: https://gironpully.ch/sitemap.xml
