@@ -10,9 +10,14 @@
 	<?php 
 		include_once("common/header.php");
 	?>
-	<main>
+	<main class="mt-0">
+        <section class="bg-gradient my-4 pt-5">
+            <div class="container-fluid py-3">
+                <h1 class="text-white">Galerie</h1>
+            </div>
+        </section>
 		<section>
-			<div class="container py-5 my-5">
+			<div class="container py-5">
 				<div class="text-center">
 					<h2>Pour diffuser vos photos de l'événement, vous pouvez :</h2>
 					<div class="row">
@@ -23,7 +28,10 @@
 						</div>
 						<div class="col-md-6 my-5">
 							<h3><i data-feather="mail" style="width:46px;"></i></h3>
-							 <h3>Nous les envoyer à galerie@gironpully.ch<br/>via <a href="https://wetransfer.com?to=galerie@gironpully.ch" rel="nofollow" target="_blanck">WeTransfer</a></h3>
+							<h3>Nous les envoyer à galerie@gironpully.ch<br/>via WeTransfer. Nous les publierons ici.</h3>
+							<a href="https://wetransfer.com?to=galerie@gironpully.ch" rel="nofollow" target="_blanck" class="btn btn-primary btn-lg btn-block">
+								Envoyer mes photos
+							</a>
 						</div>
 					</div>
 				</div>

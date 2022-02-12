@@ -9,6 +9,9 @@
 	<?php 
 		include_once("common/head.php");
 	?>
+
+	<meta name="description" content="Sociétés du Giron Pully 2022"/>
+	<meta name="keywords" content="giron, pully, pully express, lavaux, Gros-de-Vaud, concours, concerts, défilé, parade"/>
 </head>
 <body id="top" data-spy="scroll" data-target="#streamer-toc" data-offset="130">
 	<?php 

@@ -13,11 +13,16 @@
 	<?php 
 		include_once("common/header.php");
 	?>
-	<main>
+	<main class="mt-0">
+        <section class="bg-gradient my-4 pt-5">
+            <div class="container-fluid py-3">
+                <h1 class="text-white">Bénévoles</h1>
+            </div>
+        </section>
 		<section>
-			<div class="container py-5">
+			<div class="container">
 				<div class="text-center">
-					<h1 class="my-5">Vous souhaitez nous aider ?</h1>
+					<h1>Vous souhaitez nous aider ?</h1>
 					<h2>Un événement de cette taille a besoin de l'aide de bénévoles.</h2>
 					<a href="https://aline.name/mysurvey/index.php/783994?lang=fr" title="Faire partie des bénévoles" class="btn btn-primary btn-block btn-lg rounded-pill my-5" target="_blank" rel="nofollow">
 						<i data-feather="user-plus" class="mr-2"></i> Faire partie de l'équipe des bénévoles

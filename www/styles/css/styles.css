@@ -86,19 +86,19 @@
 /* Font Museo */
 @font-face {
   font-family: 'museo';
-  src: url('/styles/fonts/museo_sans/MuseoSans-300.otf') format('opentype');
+  src: url('/styles/fonts/museo_sans/MuseoSans_300.otf') format('opentype');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'museo';
-  src: url('/styles/fonts/museo_sans/MuseoSans-500.otf') format('opentype');
+  src: url('/styles/fonts/museo_sans/MuseoSans_500.otf') format('opentype');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'museo';
-  src: url('/styles/fonts/museo_sans/MuseoSans-500.otf') format('opentype');
+  src: url('/styles/fonts/museo_sans/MuseoSans_500.otf') format('opentype');
   font-weight: bold;
   font-style: italic;
 }
@@ -225,6 +225,14 @@ form h3 {
   background: linear-gradient(to right,var(--primary),var(--secondary));
 }
 
+.border-primary {
+  border-color: var(--primary) !important;
+}
+.border-secondary {
+  border-color: var(--secondary) !important;
+}
+
+
 main section h1.display-4 {
   font-weight: inherit;
 }
@@ -233,6 +241,17 @@ main section h1.display-4 {
 .input-group-circle {
   border-radius: 20px;
 }
+
+
+
+#banderole {
+  border: 4px solid #F28E1C;
+}
+
+#banderole .btn{
+  background: #F28E1C;
+}
+
 
 
 /*------------------------------------
@@ -646,20 +665,21 @@ a:hover {
 ul.timeline {
     list-style-type: none;
     position: relative;
+    padding-left: 30px;
 }
 ul.timeline:before {
     content: ' ';
     background: #d4d9df;
     display: inline-block;
     position: absolute;
-    left: 29px;
+    left: 9px;
     width: 2px;
     height: 100%;
     z-index: 400;
 }
 ul.timeline > li {
     margin: 20px 0;
-    padding-left: 20px;
+    padding-left: 0px;
 }
 ul.timeline > li:before {
     content: ' ';
@@ -668,7 +688,7 @@ ul.timeline > li:before {
     position: absolute;
     border-radius: 50%;
     border: 3px solid #119944;
-    left: 20px;
+    left: 0px;
     width: 20px;
     height: 20px;
     z-index: 400;

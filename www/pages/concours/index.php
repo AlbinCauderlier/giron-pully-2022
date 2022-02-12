@@ -8,14 +8,22 @@
 	<?php 
 		include_once("common/head.php");
 	?>
+
+	<meta name="description" content="Concours des Solistes du Giron Pully 2022"/>
+	<meta name="keywords" content="giron, pully, pully express, lavaux, Gros-de-Vaud, concours, concerts, défilé, parade"/>
 </head>
 <body id="top">
 	<?php 
 		include_once("common/header.php");
 	?>
-	<main>
+	<main class="mt-0">
+        <section class="bg-gradient my-4 pt-5">
+            <div class="container-fluid py-3">
+                <h1 class="text-white">Concours des Solistes</h1>
+            </div>
+        </section>
 		<section>
-			<div class="container py-5">
+			<div class="container">
 				<h2>Planning</h2>
 				<ul class="timeline">
 					<li>

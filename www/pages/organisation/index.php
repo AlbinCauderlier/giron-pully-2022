@@ -13,9 +13,14 @@
 	<?php 
 		include_once("common/header.php");
 	?>
-	<main>
+	<main class="mt-0">
+        <section class="bg-gradient my-4 pt-5">
+            <div class="container-fluid py-3">
+                <h1 class="text-white">Organisation</h1>
+            </div>
+        </section>
 		<section>
-			<div class="container-fluid pt-5">
+			<div class="container-fluid">
 				<div class="row">
 					<aside class="col-md-2 d-none d-sm-block">
 						<nav class="p-0" id="streamer-toc">

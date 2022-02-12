@@ -30,7 +30,6 @@
 				<h2>
 		            <a href="/" class="text-muted">
 		            	<img src="/images/logo/logo-pully-express.png" style="max-height:160px;" alt="Pully Express"/><br/>
-		                <!-- Giron Pully 2022 -->
 		            </a>
 				</h2>
 			</div>

@@ -40,7 +40,7 @@
                         echo('<a class="nav-link py-3 px-3');
                         if( strpos($_SESSION['page'], 'restauration') !== false ){ echo(' active');}
                         echo('" href="/restauration/" title="Concours ">');
-                            echo('<i data-feather="coffee" class="mr-2"></i> Wagons Restaurants');
+                            echo('<i data-feather="coffee" class="mr-2"></i>Wagon Restaurant');
                         echo('</a>');
                     echo('</li>');
                     echo('<li class="nav-item d-none d-md-block">');
@@ -55,6 +55,13 @@
                         if( strpos($_SESSION['page'], 'organisation') !== false ){ echo(' active');}
                         echo('" href="/organisation/" title="Organisation du Giron">');
                             echo('<i data-feather="home" class="mr-2"></i> Organisation');
+                        echo('</a>');
+                    echo('</li>');
+                    echo('<li class="nav-item d-none d-md-block">');
+                        echo('<a class="nav-link py-3 px-3');
+                        if( strpos($_SESSION['page'], 'sponsors') !== false ){ echo(' active');}
+                        echo('" href="/sponsors/" title="Sponsors du Giron">');
+                            echo('<i data-feather="flag" class="mr-2"></i> Sponsors');
                         echo('</a>');
                     echo('</li>');
                     echo('<li class="nav-item d-none d-md-block">');
@@ -107,6 +114,12 @@
                     if( strpos($_SESSION['page'], 'organisation') !== false ){ echo(' active');}
                     echo('" href="/organisation/" title="Organisation du Giron">');
                         echo('<i data-feather="home" class="mr-2"></i> Organisation');
+                    echo('</a>');
+
+                    echo('<a class="dropdown-item');
+                    if( strpos($_SESSION['page'], 'sponsors') !== false ){ echo(' active');}
+                    echo('" href="/sponsors/" title="Sponsors du Giron">');
+                        echo('<i data-feather="flag" class="mr-2"></i> Sponsors');
                     echo('</a>');
 
                     echo('<a class="dropdown-item');

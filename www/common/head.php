@@ -19,7 +19,7 @@
 
 <!-- load the d3.js library --> 
 <script src="/js/d3.min.js" charset="utf-8"></script>
-<script src="/js/d3clock.js"></script>
+<script src="/js/d3clock.min.js"></script>
 
 
 <meta property="og:type" 		content="website">
@@ -33,9 +33,9 @@
 
 <meta name="twitter:card" 		content="summary">
 <meta name="twitter:site"		content="@gironpully"/>
-<meta property="twitter:title" content="Pully Express 2022 - Giron des Musiques de Lavaux et du Gros-de-Vaud">
-<meta property="twitter:description" content="Le Corps de Musique de Pully organise, à Pully, le Giron des Musiques de Lavaux et du Gros-de-Vaud, le 20 et 21 mai 2022" >
-<meta property="twitter:image" content="https://gironpully.ch/images/logo/logo-giron-pully-favicon.png" >
+<meta name="twitter:title" content="Pully Express 2022 - Giron des Musiques de Lavaux et du Gros-de-Vaud">
+<meta name="twitter:description" content="Le Corps de Musique de Pully organise, à Pully, le Giron des Musiques de Lavaux et du Gros-de-Vaud, le 20 et 21 mai 2022" >
+<meta name="twitter:image" content="https://gironpully.ch/images/logo/logo-giron-pully-favicon.png" >
 <meta name="twitter:creator"	content="@gironpully">
 <meta name="twitter:url"		content="https://gironpully.ch"/>
 
@@ -47,7 +47,9 @@
 		"name" : "Giron Pully",
 		"url" : "https://gironpully.ch",
 		"sameAs" : [
-			"https://twitter.com/gironpully"
+			"https://www.facebook.com/Gironpully",
+			"https://twitter.com/gironpully",
+			"https://www.instagram.com/giron_pully/"
 		],
 		"image": [
 			"https://gironpully.ch/images/logo/logo-pully-express-reduced.png"
