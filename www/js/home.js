@@ -42,5 +42,5 @@ function initializeClock(id, endtime) {
 
 // const deadline = new Date(Date.parse(new Date("2022-05-21 09:00:00")));
 // const deadline = new Date( Date.parse("May 21, 2022 09:00:00") );
-const deadline = new Date(2022, 5, 21, 9, 0, 0);
+const deadline = new Date(2022, 4, 21, 9, 0, 0);
 initializeClock('clockdiv', deadline);
