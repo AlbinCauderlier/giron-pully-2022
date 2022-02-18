@@ -1,6 +1,3 @@
-<?php
-	refresh_session();
-?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -35,16 +32,6 @@
 										Comité Elargi
 									</a>
 								</li>
-								<li class="nav-item">
-									<a href="#sponsors" title="" class="nav-link border-left py-3">
-										Sponsors
-									</a>
-								</li>
-								<!-- <li class="nav-item">
-									<a href="#benevoles" title="" class="nav-link border-left py-3">
-										Bénévoles
-									</a>
-								</li> -->
 							</ul>
 						</nav>
 					</aside>
@@ -213,13 +200,6 @@
 								</a>
 							</div>
 						</div>
-						<hr class="my-5"/>
-						<h2 id="sponsors">Sponsors</h2>
-						<p class="my-5">
-							<a href="mailto:sponsors@gironpully.ch" class="btn btn-primary rounded-pill px-5">
-								Nous contacter à sponsors@gironpully.ch
-							</a>
-						</p>
 					</div>
 				</div>
 			</div>

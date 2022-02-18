@@ -1,6 +1,3 @@
-<?php
-	refresh_session();
-?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -38,7 +35,7 @@
 						</a> 
 					</div>
 					<div class="col-md-6">
-						<a href="/ressources/sponsors/formulaire_de_sponsoring.pdf" class="btn btn-primary btn-lg btn-block my-3" target="_blank">
+						<a href="/ressources/sponsors/contrat_de_sponsoring.pdf" class="btn btn-primary btn-lg btn-block my-3" target="_blank">
 							Télécharger le contrat de sponsoring
 						</a> 
 					</div>

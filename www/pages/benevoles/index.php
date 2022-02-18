@@ -1,6 +1,3 @@
-<?php
-	refresh_session();
-?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -24,9 +21,18 @@
 				<div class="text-center">
 					<h1>Vous souhaitez nous aider ?</h1>
 					<h2>Un événement de cette taille a besoin de l'aide de bénévoles.</h2>
-					<a href="https://aline.name/mysurvey/index.php/783994?lang=fr" title="Faire partie des bénévoles" class="btn btn-primary btn-block btn-lg rounded-pill my-5" target="_blank" rel="nofollow">
-						<i data-feather="user-plus" class="mr-2"></i> Faire partie de l'équipe des bénévoles
-					</a>
+					<div class="row">
+						<div class="col-md-6">
+							<a href="https://aline.name/mysurvey/index.php/745376?lang=fr" title="Faire partie des bénévoles" class="btn btn-primary btn-block btn-lg rounded-pill my-5" target="_blank" rel="nofollow">
+								<i data-feather="user-plus" class="mr-2"></i> Faire partie des bénévoles
+							</a>
+						</div>
+						<div class="col-md-6">
+							<a href="https://aline.name/mysurvey/index.php/489855?lang=fr" title="Faire partie des bénévoles" class="btn btn-primary btn-block btn-lg rounded-pill mt-5" target="_blank" rel="nofollow">
+								<i data-feather="user-plus" class="mr-2"></i> Inscrire un groupe de bénévoles
+							</a>
+						</div>
+					</div>
 					<hr class="my-5"/>
 					<div class="row my-5">
 						<div class="col-md-6">
@@ -55,10 +61,15 @@
 					<li class="col-md-3 my-3">Périmètre du cortège</li>
 					<li class="col-md-3 my-3">...</li>
 				</ul>
-				<hr class="my-5"/>
-				<a href="https://aline.name/mysurvey/index.php/783994?lang=fr" title="Faire partie des bénévoles" class="btn btn-primary btn-block btn-lg rounded-pill mt-5" target="_blank" rel="nofollow">
-					<i data-feather="user-plus" class="mr-2"></i> Faire partie de l'équipe des bénévoles
+				<!-- <hr class="my-5"/>
+				<a href="https://aline.name/mysurvey/index.php/745376?lang=fr" title="Faire partie des bénévoles" class="btn btn-primary btn-block btn-lg rounded-pill mt-5" target="_blank" rel="nofollow">
+					<i data-feather="user-plus" class="mr-2"></i> Faire partie des bénévoles
 				</a>
+				<hr class="my-5"/>
+				<h4>Inscription en groupes</h4>
+				<a href="https://aline.name/mysurvey/index.php/489855?lang=fr" title="Faire partie des bénévoles" class="btn btn-primary btn-block btn-lg rounded-pill mt-5" target="_blank" rel="nofollow">
+					<i data-feather="user-plus" class="mr-2"></i> Inscrire un groupe de bénévoles
+				</a> -->
 			</div>
 		</section>
 	</main>

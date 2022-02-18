@@ -1,6 +1,6 @@
 <?php
-	require_once("configuration.php");
-	require_once('includes/functions.php');
+	// require_once("configuration.php");
+	// require_once('includes/functions.php');
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -297,6 +297,18 @@
 									</div>
 								</div>
 								<p>
+									Cumulant 101 années d’histoire dans ses archives, l'Union Instrumentale de Forel poursuit sa route musicale avec passion. Elle compte actuellement une bonne trentaine de membres actifs, mélangeant jeunes adolescents et grands-parents, agriculteurs et étudiants, se réunissant chaque mercredi soir pour partager un moment musical et amical. Comme son nom ne l’indique pourtant pas, elle dispose en fait d’un bassin de population qui recouvre également la Commune voisine de Savigny.
+								</p>
+								<p>
+									Elle évolue en première catégorie Brass Band, et se produit régulièrement, que ce soit pour des services officiels de nos deux communes (Forel et Savigny), ou lors de concerts divers comme nos soirées annuelles au début de chaque année. La société participe régulièrement aux fêtes régionales, cantonales et fédérales, où elle obtient des résultats honorables. En outre, quelques sorties en dehors du canton et à l'étranger ont contribué à resserrer les liens d'amitié qu'il existe entre musiciennes et musiciens.
+								</p>
+								<p>
+									Nous vous encourageons à venir découvrir notre société vivante dynamique, tout en restant attachée aux traditions de la musique instrumentale.
+								</p>
+								<p>
+									Après deux années malheureuses sans giron, l’Union Instrumentale de Forel (Lavaux), dirigée par Monsieur Stéphane Duboux, se réjouit de participer au Giron des Musiques de Lavaux et du Gros-de-Vaud à Pully.
+								</p>
+								<!-- <p>
 									A bientôt cent ans, l'<i>Union Instrumentale</i> de Forel poursuit sa route musicale avec passion. Elle compte actuellement plus d'une quarantaine de membres actifs, mélangeant jeunes adolescents et grands-parents, agricullteurs et étudiants, se réunissant chaque mercredi soir pour partager un moment musical et amical.
 								</p>
 								<p>
@@ -310,7 +322,7 @@
 								</p>
 								<p>
 									L'<i>Union Instrumentale</i> de Forel (Lavaux) est dirigée par Monsieur Stéphane DUBOUX.
-								</p>
+								</p> -->
 							</div>
 						</div>
 						<h2 id="mezieres" class="panel">Mézières</h2>
@@ -526,6 +538,35 @@
 									</div>
 								</div>
 								<p>
+									Le corps de Musique est né le 25 mars 1920 de la fusion de l’Avenir et de l’Espérance, deux petites
+									fanfares en activité à Yvonand au début du siècle passé.
+								</p>
+								<p>
+									La formation regroupe une trentaine de musiciens, complétée par des tambours. La plupart des
+									membres proviennent d’Yvonand et des villages alentours (Molondin, Démoret, Donneloye, Bioley-
+									Magnoux). L’ensemble joue en formation Brass Band en troisième division.
+								</p>
+								<p>
+									Depuis 2018, La direction musicale de notre société est assurée par M. Nicolas Mognetti,
+									saxophoniste talentueux qui notamment remporté en 2016 le titre de champion suisse junior du
+									Slow Melody Contest et en 2017 le premier prix du concours suisse des solistes et petits dans la
+									catégorie d’ensembles de bois.
+								</p>
+								<p>
+									Pour la formation de ses jeunes, l’école de musique a groupé ses forces avec celle de Pomy pour
+									fonder l’école de musique de Pomy-Yvonand (EMPY).
+								</p>
+								<p>
+									C’est en 2020 que nous aurions dû fêter notre centenaire lors du Giron des Musiques du Gros-de-
+									Vaud et du Lavaux prévu en mai à Yvonand. Après deux reports pour des raisons que tout le monde
+									connaît, nous avons enfin pu mettre sur pieds nos rencontres musicales en septembre 2021 où les
+									musiciens présents ont eu grand plaisir à se retrouver à nouveau pour la première fois depuis plus de 2 ans.
+								</p>
+								<p>
+									Nous souhaitons au Corps de Musique de Pully un superbe giron sans contraintes et que la fête soit
+									belle.
+								</p>
+								<!-- <p>
 									Le Corps de Musique d'Yvonnand est né le 25 mars 1920 de la fusion de 'l<i>Avenir</i> et de l'<i>Espérance</i>, deux petites fanfares en activité à Yvonnand au début du siècle passé.
 								</p>
 								<p>
@@ -536,7 +577,7 @@
 								</p>
 								<p>
 									Pour la formation des jeunes, l'école de musique a groupé ses forces avce celle de la fanfare <i>La Villageoise</i> de Pomy pour créer l'<i>Ecole de Musique de Pomy-Yvonnand (EMPY)</i>.
-								</p>
+								</p> -->
 							</div>
 						</div>
 					</div>

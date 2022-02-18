@@ -1,6 +1,6 @@
 <?php
-	require_once("configuration.php");
-	require_once('includes/functions.php');
+	// require_once("configuration.php");
+	// require_once('includes/functions.php');
 ?>
 <!DOCTYPE html>
 <html lang="fr">

@@ -1,6 +1,3 @@
-<?php
-	refresh_session();
-?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -327,15 +324,14 @@
 						</ul>
 					</div>
 				</div>
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col-md-4 text-center">
 						<img src="/images/certificat-covid.png" style="max-height: 96px;" alt="Certificat Covid"/>
 					</div>
 					<div class="col-md-8 font-weight-bold text-center">
 						Avec les informations actuellement à notre disposition, nous prévoyons de demander à chacun d'être muni d'un certificat Covid pour accéder aux événements.
 					</div>
-				</div>
-				
+				</div> -->
 			</div>
 		</section>
 	</main>
