@@ -30,3 +30,5 @@ www/prod.configuration.php
 www/configuration.php
 www/vendor
 *.1
+log/
+back-up-2022-03-03/

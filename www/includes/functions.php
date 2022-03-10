@@ -1,31 +1,6 @@
 <?php
 
 /**
- *	Fonction de nettoyage d'un texte
- *
- *	@param	$text	Texte à nettoyer
- *
- *	@return		Texte nettoyé
- */
-function cleanText($text){
-	$text=trim($text); // delete white spaces after & before text
-
-	if(1 === get_magic_quotes_gpc()){
-		$stripslashes=create_function('$txt','return stripslashes($txt);');
-	}
-	else{
-		$stripslashes=create_function('$txt','return $txt;');
-	}
-
-	// magic quotes ?
-	$text=$stripslashes($text);
-	$text=htmlentities($text,ENT_QUOTES); // converts to string with " and ' as well
-	//$text=nl2br($text);
-	return $text;
-}
-
-
-/**
  * RequestDispatcher
  * Processing of the request uri
  * 
@@ -39,16 +14,16 @@ function getRequestedUri(){
 	if(empty($_GET)){
 		return($page_home);
 	}
-	
+
 
 	// Directory protection
 	if(isset($_GET['p1'])){
-		$page=cleanText($_GET['p1']);
+		$page=$_GET['p1'];
 		$temp=explode('/',$page);
 
 		// Existing page?
 		if(isset($_GET['p2'])){
-			$temp2=explode('/',cleanText($_GET['p2']));
+			$temp2=explode('/',$_GET['p2']);
 
 			if(isset($temp2[2]) && file_exists($dossier_pages.$temp[0].'/'.$temp2[0].'/'.$temp2[1].'/'.$temp2[2].'/index.php')){
 				return($temp[0].'/'.$temp2[0].'/'.$temp2[1].'/'.$temp2[2]);
@@ -178,24 +153,34 @@ function get_back_to_top_link($link = "#") {
 	echo('</a>');
 }
 
-/**
- * 
- * Permet l'interprétation des fichiers PHP de génération des e-mails.
- * 
- * @param	$url	L'URL du fichier php
- * @return	string	La chaine en sortie du fichier interprété.
- */
-function get_include_contents($url) {
-	// Contrôle que l'URL fournie est bien un fichier.
-	if(!is_file($url)){
-		return false;
-	}
-	
-	ob_start();
-	include $url;
-	return ob_get_clean();
-}
 
+
+function refresh_session( $lifetime = 15000 ){
+	// Création de la session s'il n'existe pas encore de cookie
+	if( !isset($_SESSION) ) {
+		if( DEBUG ){
+			session_set_cookie_params($lifetime,'/',COOKIE_URL);
+		}
+		else{
+			session_set_cookie_params($lifetime,'/',COOKIE_URL, true, true);
+			session_start();
+		}
+    }
+
+    // Refresh the lifetime
+    // ini_set("session.cookie_lifetime", $lifetime );
+
+    // session_start();
+
+	// Détection de la langue à utiliser
+	if( !isset($_SESSION['lang']) || empty($_SESSION['lang']) ){
+		// require_once(ROOT_PATH."lib/lang/php/lang.php");
+
+		// Utilise la fonction de détection de la langue.
+		//$_SESSION['lang'] = detectLang();
+		$_SESSION['lang'] = LANG_DEFAULT;
+	}
+}
 
 
 ?>

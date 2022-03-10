@@ -1,3 +1,6 @@
+<?php
+	refresh_session();
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>

@@ -1,3 +1,6 @@
+<?php
+	refresh_session();
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -10,16 +13,20 @@
 	<?php 
 		include_once("common/header.php");
 	?>
-	<main>
+	<main class="mt-0">
+        <section class="bg-gradient my-4 pt-5">
+            <div class="container-fluid py-3">
+                <h1 class="text-white">Restauration</h1>
+            </div>
+        </section>
 		<section>
 			<div class="container py-5">
-				<h1>Restauration</h1>
+				<h1>On va se mettre bien...</h1>
 				<h2>Vendredi 20 mai</h2>
 				<div class="row">
 					<div class="col-md-6">
 						<h3>Repas "Fête de la Bière"</h3>
 						<ul>
-							<li>Entrée</li>
 							<li>Choucroute garnie</li>
 							<li>Dessert</li>
 						</ul>

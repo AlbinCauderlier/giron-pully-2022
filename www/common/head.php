@@ -25,17 +25,17 @@
 <meta property="og:type" 		content="website">
 <meta property="og:site_name"	content="Giron Pully"/>
 <meta property="og:title" 		content="Pully Express 2022 - Giron des Musiques de Lavaux et du Gros-de-Vaud" >
-<meta property="og:description" content="Le Corps de Musique de Pully organise, à Pully, le Giron des Musiques de Lavaux et du Gros-de-Vaud, le 20 et 21 mai 2022" >
+<meta property="og:description" content="Le Corps de Musique de Pully organise, à Pully, le Giron des Musiques de Lavaux et du Gros-de-Vaud, le vendredi 20 et samedi 21 mai 2022" >
 <meta property="og:url"			content="https://gironpully.ch"/>
-<meta property="og:image" 		content="https://gironpully.ch/images/logo/logo-giron-pully-favicon.png">
-<!-- <meta property="og:image" content="https://gironpully.ch/images/logo/logo-pully-express-reduced.png" /> -->
+<!-- <meta property="og:image" 		content="https://gironpully.ch/images/logo/logo-giron-pully-favicon.png"> -->
+<meta property="og:image" content="https://gironpully.ch/images/logo/logo-pully-express-reduced.png" />
 
 
 <meta name="twitter:card" 		content="summary">
 <meta name="twitter:site"		content="@gironpully"/>
-<meta name="twitter:title" content="Pully Express 2022 - Giron des Musiques de Lavaux et du Gros-de-Vaud">
-<meta name="twitter:description" content="Le Corps de Musique de Pully organise, à Pully, le Giron des Musiques de Lavaux et du Gros-de-Vaud, le 20 et 21 mai 2022" >
-<meta name="twitter:image" content="https://gironpully.ch/images/logo/logo-giron-pully-favicon.png" >
+<meta name="twitter:title" 		content="Pully Express 2022 - Giron des Musiques de Lavaux et du Gros-de-Vaud">
+<meta name="twitter:description" content="Le Corps de Musique de Pully organise, à Pully, le Giron des Musiques de Lavaux et du Gros-de-Vaud, le vendredi 20 et samedi 21 mai 2022" >
+<meta name="twitter:image" 		content="https://gironpully.ch/images/logo/logo-pully-express-reduced.png" >
 <meta name="twitter:creator"	content="@gironpully">
 <meta name="twitter:url"		content="https://gironpully.ch"/>
 

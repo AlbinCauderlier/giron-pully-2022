@@ -1,3 +1,6 @@
+<?php
+	refresh_session();
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -76,11 +79,11 @@
 					<div class="col-md-10">
 						<h2 id="planning">Planning</h2>
 						<ul class="timeline">
-							<li>
+							<!-- <li>
 								<b>21.01.2022</b>
 								<i><span class="float-right">Sur cette page</span></i>
 								<p>Ouverture des inscriptions</p>
-							</li>
+							</li> -->
 							<li>
 								<b>21.02.2022</b>
 								<p>Limite de retours des inscriptions et partitions</p>

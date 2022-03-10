@@ -1,3 +1,6 @@
+<?php
+	refresh_session();
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -36,6 +39,10 @@
 						Enfin, le concours de solistes aura lieu au Collège Arnold Reymond, afin de récompenser les jeunes musiciens.
 					</p>
 				</div>
+				<h2>Ils parlent de nous</h2>
+				<p>
+					Temps Libre (https://tempslibre.ch) : <a href="https://www.tempslibre.ch/vaud/manifestations/418279-giron-des-musiques-de-lavaux-et-du-gros-de-vaud" rel="nofollow" target="_blanck">Voir la page</a>
+				</p>
 			</div>
 		</section>
 	</main>

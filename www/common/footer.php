@@ -6,17 +6,17 @@
 		<h3 class="text-white text-center py-3">Partage ton giron sur</h3>
 		<div class="row">
 			<div class="col-md-4 my-3 h3 text-white text-center">
-				<a href="https://www.facebook.com/Gironpully" class="btn btn-outline-light btn-lg" rel="nofollow" target="_blanck">
+				<a href="https://www.facebook.com/Gironpully" class="btn btn-outline-light btn-lg btn-block" rel="nofollow" target="_blanck">
 					<i data-feather="facebook"></i> sur GironPully
 				</a>
 			</div>
 			<div class="col-md-4 my-3 h3 text-white text-center">
-				<a href="https://www.instagram.com/giron_pully/" class="btn btn-outline-light btn-lg" rel="nofollow" target="_blanck">
+				<a href="https://www.instagram.com/giron_pully/" class="btn btn-outline-light btn-lg btn-block" rel="nofollow" target="_blanck">
 					<i data-feather="instagram"></i> avec @Giron_Pully
 				</a>
 			</div>
 			<div class="col-md-4 my-3 h3 text-white text-center">
-				<a href="https://twitter.com/GironPully" class="btn btn-outline-light btn-lg" rel="nofollow" target="_blanck">
+				<a href="https://twitter.com/GironPully" class="btn btn-outline-light btn-lg btn-block" rel="nofollow" target="_blanck">
 					<i data-feather="twitter"></i> avec @GironPully et #gironpully
 				</a>
 			</div>

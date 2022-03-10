@@ -1,6 +1,5 @@
 <?php
-	// require_once("configuration.php");
-	// require_once('includes/functions.php');
+	refresh_session();
 ?>
 <!DOCTYPE html>
 <html lang="fr">

@@ -1,3 +1,6 @@
+<?php
+	refresh_session();
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -37,7 +40,8 @@
 					</aside>
 					<div class="col-md-10">
 						<h2 id="comite_organisation">Comité d'Organisation</h2>
-						<div id="carousel_organisation" class="carousel slide my-3" data-ride="carousel">
+						<img src="/images/comite/groupe/IMG_2350.jpg" alt="Comité du Giron"class="d-block w-100"/>
+						<!-- <div id="carousel_organisation" class="carousel slide my-3" data-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active">
 									<img src="/images/comite/groupe/IMG_2350.jpg" alt="Comité du Giron"class="d-block w-100"/>
@@ -70,7 +74,7 @@
 									<img src="/images/comite/groupe/IMG_2322.jpg" alt="Comité du Giron"class="d-block w-100"/>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<div class="row my-5 text-center">
 							<div class="col-md my-3">
 								<a href="/images/comite/membres/originaux/laetitia-deglon.jpg" title="Laetitia DEGLON" target="_blank">
