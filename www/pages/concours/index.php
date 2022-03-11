@@ -33,11 +33,11 @@
 										Planning
 									</a>
 								</li>
-								<li class="nav-item">
+								<!-- <li class="nav-item">
 									<a href="#inscriptions" title="" class="nav-link border-left py-3">
 										Inscriptions
 									</a>
-								</li>
+								</li> -->
 								<li class="nav-item">
 									<a href="#ensemble_des_jeunes" title="" class="nav-link border-left py-3">
 										Ensemble des Jeunes du Concours
@@ -84,10 +84,10 @@
 								<i><span class="float-right">Sur cette page</span></i>
 								<p>Ouverture des inscriptions</p>
 							</li> -->
-							<li>
+							<!-- <li>
 								<b>21.02.2022</b>
 								<p>Limite de retours des inscriptions et partitions</p>
-							</li>
+							</li> -->
 							<li>
 								<b>21.04.2022</b>
 								<i><span class="float-right">Sur cette page</span></i>
@@ -125,18 +125,11 @@
 								<p>Publication des résultats</p>
 							</li>
 						</ul>
-						<hr class="my-5"/>
+						<!-- <hr class="my-5"/>
 						<h2 id="inscriptions">Inscription</h2>
 						<p>
 							Merci d'envoyer le formulaire ci-dessous, avec 2 copies des partitions, avant le 21.02.2022, à l'adresse postale indiquée.
-							<!-- Merci d'envoyer le formulaire ci-dessous, avec 2 copies des partitions, avant le 21.02.2022 : <br/>
-							- soit par e-mail, en pièce-jointe PDF à <a href="mailto:concours@gironpully.ch">concours@gironpully.ch</a> (toutes les données seront détruites après le giron)<br/>
-							- soit par courrier postal, à l'adresse indiquée dans le formulaire.<br/> -->
 						</p>
-						<!-- <b>Envoi des partitions</b>
-								<p>
-									Que l'inscription soit par e-mail ou par courrier postal, les partitions devront être envoyées par courrier postal à l'adresse indiquée.
-								</p> -->
 						<h4 class="mt-5">Instruments à vent</h4>
 						<div class="row">
 							<div class="col-md-6">
@@ -204,7 +197,7 @@
 									Formulaire d'inscription "Petit ensemble - Tambour" (T_E-BA)
 								</a>
 							</div>
-						</div>
+						</div> -->
 						<hr class="my-5"/>
 						<h2 id="ensemble_des_jeunes">Ensemble des Jeunes du Concours</h2>
 						<p>
@@ -245,14 +238,21 @@
 						<h2 id="pianistes">Présentation des pianistes</h2>
 						<div class="row">
 							<div class="col-md-6">
-								<h4>Véronique Piller</h4>
-								<p>
-									Professeure au Conservatoire de Fribourg, elle se passionne dès son jeune âge
-									pour l’accompagnement, d’abord dans le cercle familial puis rapidement au-
-									delà. Mettre en valeur le soliste ou le chœur, anticiper les intentions musicales
-									de l’exécutant-e, soutenir le/la chef.fe dans son travail, voilà ce qu’elle apprécie
-									dans cette activité toujours variée et passionnante.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/veronique-piller.png" class="w-100" alt="Véronique Piller"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Véronique Piller</h4>								
+										<p>
+											Professeure au Conservatoire de Fribourg, elle se passionne dès son jeune âge
+											pour l’accompagnement, d’abord dans le cercle familial puis rapidement au-
+											delà. Mettre en valeur le soliste ou le chœur, anticiper les intentions musicales
+											de l’exécutant-e, soutenir le/la chef.fe dans son travail, voilà ce qu’elle apprécie
+											dans cette activité toujours variée et passionnante.
+										</p>
+									</div>
+								</div>
 								<p>
 									Véronique Piller est très active en tant qu’accompagnatrice de divers chanteurs
 									et chœurs amateurs et professionnels (SingTonic, Fa7, Chœur de Chambre de
@@ -329,14 +329,21 @@
 								</p>
 							</div>
 							<div class="col-md-6">
-								<h4>Christelle Matthey</h4>
-								<p>
-									Christelle Matthey commence l'étude du piano à l'âge de 5 ans et obtient en 2006 un Diplôme
-									d'Enseignement dans la classe de Nicolas Farine à La Chaux-de-Fonds.
-									Durant ses études, Christelle est lauréate de deux prix d'accompagnement
-									au concours Suisse de musique pour la jeunesse ainsi que du prix du
-									Lyceum Club en 2005.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/christelle-matthey.png" class="w-100" alt="Christelle Matthey"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Christelle Matthey</h4>						
+										<p>
+											Christelle Matthey commence l'étude du piano à l'âge de 5 ans et obtient en 2006 un Diplôme
+											d'Enseignement dans la classe de Nicolas Farine à La Chaux-de-Fonds.
+											Durant ses études, Christelle est lauréate de deux prix d'accompagnement
+											au concours Suisse de musique pour la jeunesse ainsi que du prix du
+											Lyceum Club en 2005.
+										</p>
+									</div>
+								</div>
 								<p>
 									Elle se perfectionne ensuite à la Musikchochule de Lucerne auprès de
 									Hiroko Sakagami et obtient en janvier 2011 un Master of Arts en
@@ -360,13 +367,20 @@
 						<h4>Jury Tambours</h4>
 						<div class="row">
 							<div class="col-md-6">
-								<h4>Damien Gavillet</h4>
-								<p>
-									Né le 27 décembre 1991, Damien Gavillet a commencé son apprentissage du tambour à l’age
-									de 9 ans auprès de la société de musique l’Echo des Monts de Riaz. Après 4 ans de
-									formation auprès de Daniel Gachet, il a participé à son premier concours de solistes
-									fribourgeois puis concourra à divers concours régionaux, cantonaux, romands et fédéraux.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/damien-gavillet.png" class="w-100" alt="Damien Gavillet"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Damien Gavillet</h4>
+										<p>
+											Né le 27 décembre 1991, Damien Gavillet a commencé son apprentissage du tambour à l’age
+											de 9 ans auprès de la société de musique l’Echo des Monts de Riaz. Après 4 ans de
+											formation auprès de Daniel Gachet, il a participé à son premier concours de solistes
+											fribourgeois puis concourra à divers concours régionaux, cantonaux, romands et fédéraux.
+										</p>
+									</div>
+								</div>
 								<p>
 									Il a suivi pendant 3 ans les cours de perfectionnements pour tambour organisés par la
 									Commission Cantonale de Tambour (CCT) puis, de 2007 à 2009, les cours de moniteur
@@ -396,11 +410,17 @@
 						<h4>Jury Bois</h4>
 						<div class="row">
 							<div class="col-md-6">
-								<h4>Beat Rosenast</h4>
-								<p>
-									Beat Rosenast est né le 18 décembre 1984 à Fribourg. Il commence à pratiquer la musique à l’âge de
-									7 ans, puis il choisit d’apprendre la clarinette deux ans plus tard. Il étudie cet instrument de 2005 à 2012 au Conservatoire de Lausanne dans la classe de Frédéric Rapin.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/beat-rosenast.png" class="w-100" alt="Beat Rosenast"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Beat Rosenast</h4>
+										<p>
+											Beat Rosenast est né le 18 décembre 1984 à Fribourg. Il commence à pratiquer la musique à l’âge de 7 ans, puis il choisit d’apprendre la clarinette deux ans plus tard. Il étudie cet instrument de 2005 à 2012 au Conservatoire de Lausanne dans la classe de Frédéric Rapin.
+										</p>
+									</div>
+								</div>
 								<p>
 									Il obtient en 2010 le “Master of Arts HES-SO en interprétation musicale avec orientation en
 									orchestre” et en 2012 le “Master of Arts HES-SO en Pédagogie musicale avec orientation en
@@ -421,12 +441,19 @@
 								</p>
 							</div>
 							<div class="col-md-6">
-								<h4>Dany Rossier</h4>
-								<p>
-									Né en 1981 en Valais, Dany Rossier étudie la musique dès son plus jeune âge.
-									Déjà attiré enfant par la clarinette, il commence toutefois des études de piano,
-									qu’il poursuit durant 4 ans.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/dany-rossier.png" class="w-100" alt="Dany Rossier"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Dany Rossier</h4>
+										<p>
+											Né en 1981 en Valais, Dany Rossier étudie la musique dès son plus jeune âge.
+											Déjà attiré enfant par la clarinette, il commence toutefois des études de piano,
+											qu’il poursuit durant 4 ans.
+										</p>
+									</div>
+								</div>
 								<p>
 									Il aborde ensuite l’étude de la clarinette avec Dominique Tacchini à Martigny,
 									chez qui il obtient le Certificat supérieur de l’Association suisse de musique.
@@ -479,18 +506,19 @@
 						<h4>Jury Cuivre</h4>
 						<div class="row">
 							<div class="col-md-6">
-								<h4>Florian Lab</h4>
-								<p>
-									Né en 1974, Florian Lab commence l’apprentissage du cornet dès 9 ans. Il rencontre
-									successivement plusieurs professeurs : Christophe Jeanbourquin, Elisabeth Nouaille Degorce,
-									Véronique Pitteloud-Gyger. Désireux de poursuivre sa formation musicale, il acquiert en 2002 le
-									diplôme d’enseignement de la trompette auprès de la Société suisse de pédagogie musicale, sous
-									la direction de M. Jean-Jacques Schmid (Trompette solo de l’orchestre symphonique de Berne).
-									C’est avec l’aide de ce même formateur qu’il obtient le diplôme de concert en 2006. Il suivra
-									durant cette période des cours auprès de M. Roger B. Webster ainsi qu’auprès de MM. Maurice
-									André et Guy Touvron. En parallèle Florian passe avec succès le diplôme professionnel de
-									direction pour fanfares, harmonies et brass bands au conservatoire de Lausanne.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/florian-lab.png" class="w-100" alt="Florian Lab"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Florian Lab</h4>
+										<p>
+											Né en 1974, Florian Lab commence l’apprentissage du cornet dès 9 ans. Il rencontre
+											successivement plusieurs professeurs : Christophe Jeanbourquin, Elisabeth Nouaille Degorce,
+											Véronique Pitteloud-Gyger. Désireux de poursuivre sa formation musicale, il acquiert en 2002 le diplôme d’enseignement de la trompette auprès de la Société suisse de pédagogie musicale, sous la direction de M. Jean-Jacques Schmid (Trompette solo de l’orchestre symphonique de Berne). C’est avec l’aide de ce même formateur qu’il obtient le diplôme de concert en 2006. Il suivra durant cette période des cours auprès de M. Roger B. Webster ainsi qu’auprès de MM. Maurice André et Guy Touvron. En parallèle Florian passe avec succès le diplôme professionnel de direction pour fanfares, harmonies et brass bands au conservatoire de Lausanne.
+										</p>
+									</div>
+								</div>
 								<p>
 									En tant que directeur, il a fondé et dirigé durant 11 ans la formation « b » de l’ensemble de
 									cuivres jurassien et conduit la Fanfare « les Echos du Val-Terbi » de Corban de 2007 à 2021.
@@ -504,12 +532,17 @@
 								</p>
 							</div>
 							<div class="col-md-6">
-								<h4>Vincent Métrailler</h4>
-								<p>
-									Vincent Métrailler, originaire de Chalais (VS), est né en 1988. En 2004, il débute des études professionnelles de trombone auprès d’Andrea Bandini à la HEM de Genève où il effectue en 2009 un
-									Master de Pédagogie et en 2011 un Master de Performance orientation orchestre avec mention. La même année il fait un stage au sein du Berner Symphonie Orchester. En 2013 il rejoint l’argovia
-									philharmonic où il occupe la place de deuxième trombone. En 2016, il est engagé à l’Orchestre de la Suisse Romande comme deuxième trombone, soliste remplaçant, poste qu’il occupe actuellement.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/vincent-metrailler.png" class="w-100" alt="Vincent Métrailler"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Vincent Métrailler</h4>
+										<p>
+											Vincent Métrailler, originaire de Chalais (VS), est né en 1988. En 2004, il débute des études professionnelles de trombone auprès d’Andrea Bandini à la HEM de Genève où il effectue en 2009 un Master de Pédagogie et en 2011 un Master de Performance orientation orchestre avec mention. La même année il fait un stage au sein du Berner Symphonie Orchester. En 2013 il rejoint l’argovia philharmonic où il occupe la place de deuxième trombone. En 2016, il est engagé à l’Orchestre de la Suisse Romande comme deuxième trombone, soliste remplaçant, poste qu’il occupe actuellement.
+										</p>
+									</div>
+								</div>
 								<p>
 									Passionné depuis toujours par la direction, il obtient en 2016 un certificat préprofessionnel de direction d’ensemble à vent au conservatoire de Fribourg auprès de Jean-Claude Kolly. En 2014, il
 									fonde l’Orchestre Valaisan Amateur, dont il est le directeur artistique. Il vit actuellement à Genève et se consacre pleinement à sa passion de musicien d’orchestre et de création de projets artistiques.
@@ -520,10 +553,17 @@
 						<h4>Jury Percussions</h4>
 						<div class="row">
 							<div class="col-md-6">
-								<h4>Fabrice VERNAY</h4>
-								<p>
-									Né à Massongex (VS), Fabrice Vernay commence le tambour puis les percussions au sein de la fanfare locale. Après avoir obtenu sa maturité, il entame ses études professionnelles au Conservatoire de Lausanne dans la classe de Stéphane Borel, où il obtient le diplôme d’enseignement et le diplôme de concert, tous les deux avec les félicitations du jury. Il étudie aussi le vibraphone jazz à l’EJMA de Lausanne avec Philippe Cornaz et la batterie avec Patrick Dufresne et Félix Bergeron.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/fabrice-vernay.png" class="w-100" alt="Fabrice VERNAY"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Fabrice VERNAY</h4>
+										<p>
+											Né à Massongex (VS), Fabrice Vernay commence le tambour puis les percussions au sein de la fanfare locale. Après avoir obtenu sa maturité, il entame ses études professionnelles au Conservatoire de Lausanne dans la classe de Stéphane Borel, où il obtient le diplôme d’enseignement et le diplôme de concert, tous les deux avec les félicitations du jury. Il étudie aussi le vibraphone jazz à l’EJMA de Lausanne avec Philippe Cornaz et la batterie avec Patrick Dufresne et Félix Bergeron.
+										</p>
+									</div>
+								</div>
 								<p>
 									Percussionniste polyvalent, Fabrice Vernay participe à des productions variées (opéra-rock, spectacle cabaret, musique théâtrale, orchestre à vent). De 2000 à 2006, il
 									est membre du Swiss Army Marching & Concert Band lors de nombreux tatoos en Europe. Il a joué au sein de l’orchestre symphonique Sinfonietta de Lausanne de 2006 à 2019. Il est actuellement membre de Via Vallesia (world music), Walliser Seema (chansons bilingues) et des symphonistes d&#39;Octodure (orchestre micro-symphonique). Il se produit aussi en duo avec le clarinettiste Dany Rossier ou le percussionniste Sylvain Andrey et dirige le groupe de percussions Percuten.
@@ -533,10 +573,17 @@
 								</p>
 							</div>
 							<div class="col-md-6">
-								<h4>Florian SPIRITO</h4>
-								<p>
-									Né en 1980, il débute la musique en 1986 à l’école de musique de Rolle & environs dans les classes de tambours et percussions.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/florian-spirito.png" class="w-100" alt="Florian SPIRITO"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Florian SPIRITO</h4>
+										<p>
+											Né en 1980, il débute la musique en 1986 à l’école de musique de Rolle & environs dans les classes de tambours et percussions.
+										</p>
+									</div>
+								</div>
 								<p>
 									Après l’obtention de son CFC d’employé de commerce, il s’oriente vers une carrière musicale et entre en 1998 dans les classes non-professionnelles du conservatoire de Lausanne, puis en 2001 en classe professionnelle avec Stéphane Borel pour la
 									percussion et Pascal Favre pour la direction d’ensemble à vent. 

@@ -22,8 +22,21 @@
                 <h1 class="text-white">Sponsors</h1>
             </div>
         </section>
-		<section class="py-5">
+        <section class="py-5">
 			<div class="container">
+				<div class="row text-center">
+					<div class="col-md-4">
+						<img src="/images/sponsors/logo-bcv.png" style="height:80px;" alt="BCV"/>
+					</div>
+					<div class="col-md-4">
+						<img src="/images/sponsors/logo-gawah.png" style="max-height:80px;" alt="Gawah"/>
+					</div>
+					<div class="col-md-4">
+						<img src="/images/sponsors/logo-pully.png" style="max-height:80px;" alt="Pully"/>
+					</div>
+				</div>
+				<hr class="my-5"/>
+				<h2>Devenir sponsor</h2>
 				<p>
 					Avec ses centaines de participants vaudois, le Giron est une excellente occasion de mettre en valeur des entreprises du canton.<br/>
 					Si vous le souhaitez, nous serons heureux de vous compter parmis nos sponsors.
