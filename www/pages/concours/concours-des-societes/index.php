@@ -91,8 +91,19 @@
 						<h2 id="jury">Jury</h2>
 						<div class="row">
 							<div class="col-md-6">
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/frederic-theoduloz.png" class="w-100" alt="Frédéric Théodoloz"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Frédéric Théodoloz</h4>								
+										<p>
+											Frédéric Théodoloz a grandi au cœur des fanfares valaisannes au sein de la société de musique La Marcelline de Grône et du Brass Band 13 Etoiles Formation B. Très tôt déjà, il se distingue lors de concours nationaux de solistes et intègre à 15 ans la classe de trombone de M. Roland Schnorhk au Conservatoire Supérieur de Musique de Genève. Il obtient son diplôme professionnel de trombone en 1996 et son 1 er prix de virtuosité en 2000.
+										</p>
+									</div>
+								</div>
 								<p>
-									Frédéric Théodoloz a grandi au cœur des fanfares valaisannes au sein de la société de musique La Marcelline de Grône et du Brass Band 13 Etoiles Formation B. Très tôt déjà, il se distingue lors de concours nationaux de solistes et intègre à 15 ans la classe de trombone de M. Roland Schnorhk au Conservatoire Supérieur de Musique de Genève. Il obtient son diplôme professionnel de trombone en 1996 et son 1 er prix de virtuosité en 2000. Dès lors de 1995 à 2011, il se forge une solide expérience de musicien d&#39;orchestre en se produisant régulièrement avec l'Orchestre de Chambre de Lausanne, l'Orchestre de la Suisse Romande, le Sinfonietta de Lausanne et l’Orchestre de Chambre de Genève. Durant sa carrière de musicien d’orchestre, il occupe successivement les postes de tromboniste à l’Orchestre National de Porto, l’Orchestre Philharmonique de Durban, l’Orchestre Symphonique de la Vallée d’Aoste et l'Orchestre Musique des Lumières.
+									Dès lors de 1995 à 2011, il se forge une solide expérience de musicien d'orchestre en se produisant régulièrement avec l'Orchestre de Chambre de Lausanne, l'Orchestre de la Suisse Romande, le Sinfonietta de Lausanne et l’Orchestre de Chambre de Genève. Durant sa carrière de musicien d’orchestre, il occupe successivement les postes de tromboniste à l’Orchestre National de Porto, l’Orchestre Philharmonique de Durban, l’Orchestre Symphonique de la Vallée d’Aoste et l'Orchestre Musique des Lumières.
 								</p>
 								<p>
 									En 2010, il intègre la classe de direction d'ensemble à vent de Monsieur Jean-Claude Kolly et obtient en 2013 son Master of Arts HES-SO in Music à la Haute Ecole de Musique de Lausanne. Il se perfectionne et collabore avec des grands noms de la scène du mouvement brass band tels que Prof. David King, Allan Withington, Robert Childs, James Gourlay et Garry Cutt.
@@ -105,12 +116,19 @@
 								</p>
 							</div>
 							<div class="col-md-6">
-								<p>
-									Jean-Claude Kolly est né en 1961 à Fribourg. Il enseigne la direction d'ensembles à vents à
-									la Haute Ecole de Musique de Lausanne (filière professionnelle [Bachelor et Master]), au
-									Conservatoire de Fribourg (section non-professionnelle) ainsi qu'à Genève dans le cadre de la
-									formation continue pour les professeurs de musique.
-								</p>
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/jury/jean-claude-kolly.png" class="w-100" alt="Jean-Claude Kolly"/>
+									</div>
+									<div class="col-md-8">
+										<h4>Jean-Claude Kolly</h4>								
+										<p>
+											Jean-Claude Kolly est né en 1961 à Fribourg. Il enseigne la direction d'ensembles à vents à
+											la Haute Ecole de Musique de Lausanne (filière professionnelle [Bachelor et Master]), au
+											Conservatoire de Fribourg (section non-professionnelle) ainsi qu'à Genève dans le cadre de la formation continue pour les professeurs de musique.
+										</p>
+									</div>
+								</div>
 								<p>
 									Il a étudié le piano et la trompette, puis s'est perfectionné en étudiant les branches théoriques,
 									le chant et l'orchestration au Conservatoire de Fribourg. A Lausanne, il a travaillé la direction
@@ -132,7 +150,7 @@
 								</p>
 							</div>
 						</div>
-						<hr class="my-5" />
+						<!-- <hr class="my-5" />
 						<h2 id="piece_imposee">Pièce imposée</h2>
 						<p>
 
@@ -141,7 +159,7 @@
 						<h2 id="reglement">Règlement</h2>
 						<p>
 
-						</p>
+						</p> -->
 					</div>
 				</div>
 			</div>

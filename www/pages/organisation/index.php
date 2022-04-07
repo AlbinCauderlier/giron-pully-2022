@@ -166,23 +166,23 @@
 						<hr class="my-5"/>
 						<h2 id="comite_elargi">Comité Elargi</h2>
 						<div class="row my-5 text-center">
-							<div class="col-md-4 my-3">
+							<div class="col-md-3 my-3">
 								<b>Pierre-Alexandre Marchand</b><br/>
 								Ensemble des jeunes<br/>
 								Jurys
 							</div>
-							<div class="col-md-4 my-3">
+							<div class="col-md-3 my-3">
 								<b>Charles-Edouard Marchand</b><br/>
 								Major de table
 							</div>
-							<div class="col-md-4 my-3">
+							<div class="col-md-3 my-3">
 								<b>Joël Vincent</b><br/>
 								Annonces / Livret de fête
 							</div>
-<!-- 							<div class="col-md-3 my-3">
-								<b>Maude Chappuis</b><br/>
-								Décorations
-							</div> -->
+							<div class="col-md-3 my-3">
+								<b>Valérie Métraux</b><br/>
+								Réseaux Sociaux
+							</div>
 						</div>
 						<div class="row my-5 text-center">
 							<div class="col-md-3 my-3">

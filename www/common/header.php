@@ -2,14 +2,18 @@
     <div class="container-fluid">
         <div class="navbar-brand">
             <?php 
-                echo('<a href="/" title="Giron Pully">');
+                if( strpos($_SESSION['page'], 'home') === false ){ 
+                    echo('<a href="/" title="Giron Pully">');
+                }
             ?>
             <h2 class="mb-0 text-dark">
                 <img src="/images/logo/logo-pully-express-train.png" style="max-height:52px;" alt="Pully Express"/>
                 Giron Pully
             </h2>
             <?php 
-                echo('</a>');
+                if( strpos($_SESSION['page'], 'home') === false  ){ 
+                    echo('</a>');
+                }
             ?>
         </div>
         <div class="row">

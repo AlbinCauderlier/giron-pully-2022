@@ -25,14 +25,20 @@
         <section class="py-5">
 			<div class="container">
 				<div class="row text-center">
-					<div class="col-md-4">
-						<img src="/images/sponsors/logo-bcv.png" style="height:80px;" alt="BCV"/>
+					<div class="col-md-4 py-4">
+						<img src="/images/sponsors/logo-bcv.png" style="max-height:64px;" alt="BCV"/>
 					</div>
-					<div class="col-md-4">
-						<img src="/images/sponsors/logo-gawah.png" style="max-height:80px;" alt="Gawah"/>
+					<div class="col-md-4 py-4">
+						<img src="/images/sponsors/logo-gawah.png" style="max-height:64px;" alt="Gawah"/>
 					</div>
-					<div class="col-md-4">
-						<img src="/images/sponsors/logo-pully.png" style="max-height:80px;" alt="Pully"/>
+					<div class="col-md-4 py-4">
+						<img src="/images/sponsors/logo-promo-ppb.png" style="max-height:64px;" alt="Promo PPB"/>
+					</div>
+					<div class="col-md-6 py-4">
+						<img src="/images/sponsors/logo-pully.png" style="max-height:64px;" alt="Pully"/>
+					</div>
+					<div class="col-md-6 py-4">
+						<img src="/images/sponsors/logo-roduit.png" style="max-height:96px;" alt="Roduit"/>
 					</div>
 				</div>
 				<hr class="my-5"/>

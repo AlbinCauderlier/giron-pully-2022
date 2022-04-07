@@ -22,7 +22,7 @@
 		<section>
 			<div class="container py-5">
 				<div class="text-center">
-					<h2>Pour diffuser vos photos de l'événement, vous pouvez :</h2>
+					<h2>Pour diffuser vos photos et vidéos de l'événement, vous pouvez :</h2>
 					<div class="row">
 						<div class="col-md-6 my-5">
 							<h3><i data-feather="twitter" style="width:46px;"></i> <i data-feather="instagram" style="width:46px;"></i></h3>

@@ -21,13 +21,13 @@
 						<nav class="p-0" id="streamer-toc">
 							<ul class="list-unstyled navbar-list mb-0"> 
 								<li class="nav-item">
-									<a href="#se_garer" title="" class="nav-link border-left py-3">
-										Se garer
+									<a href="#plan_du_site" title="" class="nav-link border-left py-3">
+										Plan du site
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#manger_boire" title="" class="nav-link border-left py-3">
-										Manger / Boire
+									<a href="#se_garer" title="" class="nav-link border-left py-3">
+										Se garer
 									</a>
 								</li>
 								<li class="nav-item">
@@ -41,11 +41,6 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a href="#concours_de_marches" title="" class="nav-link border-left py-3">
-										Concours de Marches
-									</a>
-								</li>
-								<li class="nav-item">
 									<a href="#concerts_des_societes" title="" class="nav-link border-left py-3">
 										Concerts des Sociétés
 									</a>
@@ -54,6 +49,9 @@
 						</nav>
 					</aside>
 					<div class="col-md-9">
+						<h2 id="plan_du_site">Plan du site</h2>
+						<img src="/images/plan-giron.png" alt="Plan du Giron" class="w-100"/><br/>
+						<hr class="my-5"/>
 						<h2 id="se_garer">Se garer (par ordre de proximité)</h2>
 						<div class="row">
 							<div class="col-md-6">
@@ -82,8 +80,6 @@
 							</div>
 						</div>
 						<hr class="my-5"/>
-						<h2 id="manger_boire">Manger / Boire</h2>
-						<hr class="my-5"/>
 						<h2 id="soiree">Soirée / Bal (Vendredi soir)</h2>
 						<h4>Salle Omnisport Collège Arnold Reymond</h4>
 						<div class="mb-5" style="width: 100%">
@@ -95,8 +91,6 @@
 						<div class="mb-5" style="width: 100%">
 							<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5491.509583899585!2d6.660116!3d46.512964!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7603449c2ac3d971!2sColl%C3%A8ge%20Arnold%20Reymond!5e0!3m2!1sfr!2sch!4v1625224032901!5m2!1sfr!2sch"></iframe>
 						</div>
-						<hr class="my-5"/>
-						<h2 id="concours_de_marches">Concours de Marches</h2>
 						<hr class="my-5"/>
 						<h2 id="concerts_des_societes">Concert des Sociétés</h2>
 						<h4>L'Octogone</h4>

@@ -29,6 +29,7 @@
 <meta property="og:url"			content="https://gironpully.ch"/>
 <!-- <meta property="og:image" 		content="https://gironpully.ch/images/logo/logo-giron-pully-favicon.png"> -->
 <meta property="og:image" content="https://gironpully.ch/images/logo/logo-pully-express-reduced.png" />
+<meta property="og:image" content="https://gironpully.ch/images/logo/logo-pully-express.png" />
 
 
 <meta name="twitter:card" 		content="summary">

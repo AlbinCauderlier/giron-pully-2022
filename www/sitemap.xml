@@ -10,26 +10,26 @@
     <url>
     	<loc>https://gironpully.ch/societes/</loc>
         <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-    	<loc>https://gironpully.ch/horaires/</loc> 
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://gironpully.ch/organisation/</loc> 
-        <changefreq>yearly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
     	<loc>https://gironpully.ch/presse/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
+        <changefreq>weekly</changefreq>
+        <priority>0.3</priority>
     </url>
     <url>
         <loc>https://gironpully.ch/restauration/</loc> 
-        <changefreq>yearly</changefreq>
+        <changefreq>weekly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://gironpully.ch/benevoles/</loc> 
+        <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
@@ -38,28 +38,23 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://gironpully.ch/contact/</loc> 
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
         <loc>https://gironpully.ch/concours/</loc>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://gironpully.ch/galerie/</loc> 
-        <changefreq>yearly</changefreq>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://gironpully.ch/sponsors/</loc> 
+        <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://gironpully.ch/legal/</loc> 
-        <changefreq>monthly</changefreq>
-        <priority>0</priority>
-    </url>
-    <url>
-        <loc>https://gironpully.ch/benevoles/</loc> 
-        <changefreq>monthly</changefreq>
+        <changefreq>yearly</changefreq>
         <priority>0</priority>
     </url>
 </urlset>

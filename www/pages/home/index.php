@@ -11,6 +11,58 @@
 
 	<meta name="description" content="Site du Giron des Musiques de Lavaux et du Gros-de-Vaud, le vendredi 20 et samedi 21 mai 2022, à Pully"/>
 	<meta name="keywords" content="giron, pully, pully express, lavaux, Gros-de-Vaud, concours, concerts, défilé, parade"/>
+
+	<meta property="og:image" content="https://gironpully.ch/images/logo/logo-pully-express-reduced.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Giron 2022 à Pully" />
+
+	<meta property="og:image" content="https://gironpully.ch/images/concerts/ec-bavaria.jpeg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Ensemble de Cuivres Bavaria" />
+	<meta property="og:image" content="https://gironpully.ch/images/concerts/anina-buchs.jpeg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Anina BUCHS" />
+	<meta property="og:image" content="https://gironpully.ch/images/concerts/jacky-thomet.jpeg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Orchestre de Jacky Thomet" />
+
+	<meta property="og:image" content="https://gironpully.ch/images/societes/belmont-sur-lausanne.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Belmont sur Lausanne" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/echo_du_sauteruz.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Echo du Sauteruz" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/fanfare_de_cheseaux.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Fanfare de Cheseaux" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/lyre_de_lavaux.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Lyre de Lavaux" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/lyre_echallens.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Lyre d'Echallens" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/forel.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Forel" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/fanfare_du_jorat.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Fanfare du Jorat" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/echo_de_la_molombe.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Echo de la Molombe" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/pomy-logo.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="La Villageoise - Pomy" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/echo_des_rochers_puidoux.jpeg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Echo des Rochers" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/corps_de_musique_pully.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Coprs de Musique de Pully" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/fanfare_yvonand.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Fanfare d'Yvonand" />
+
 </head>
 <body id="top">
 	<?php 
@@ -74,7 +126,7 @@
 			<div class="container-fluid">
 				<div class="row text-white text-center py-3">
 					<div class="col-md-3 my-5 h3">
-						<b>12</b><br/>
+						<b>10</b><br/>
 						sociétés invitées
 					</div>
 					<div class="col-md-3 my-5 h3">
@@ -87,17 +139,17 @@
 					</div>
 					<div class="col-md-3 my-5 h3">
 						<b>250m</b><br/>
-						de cortège en ville
+						de concours de marche
 					</div>
 				</div>
 			</div>
 		</section>
 		<section>
-			<div class="container">
+			<div class="container-fluid">
 				<h2 class="text-center my-5">Programme</h2>
 				<div class="row">
-					<div class="col-md-6 py-5">
-						<h3>Vendredi 20 mai</h3>
+					<div class="col-md-6 py-5 mx-auto">
+						<h3 class="text-center">Vendredi 20 mai</h3>
 						<ul class="timeline">
 							<li>
 								<b>19h</b>
@@ -112,7 +164,7 @@
 								<p>Apéritif</p>
 								<p>Bar et ambiance</p>
 								<p>Repas-concert autour de la Choucroute</p>
-								<p class="h3 text-center my-5">Concert de l'Ensemble de cuivre Bavaria</p>
+								<p class="h3 text-center my-5">Ensemble de Cuivres Bavaria</p>
 								<img src="/images/concerts/ec-bavaria.jpeg" class="w-100" alt="Bavaria"/>
 								<p>
 									Orchestre régional avec plus de 40 ans de pratique de la musique populaire.<br/>
@@ -120,7 +172,7 @@
 										<i data-feather="link"></i>
 									</a>
 								</p>
-								<p class="h3 text-center my-5">Concert d'Anina Buchs</p>
+								<p class="h3 text-center my-5">Anina Buchs</p>
 								<img src="/images/concerts/anina-buchs.jpeg" class="w-100" alt="Anina Buchs"/>
 								<p>
 									Anina Buchs aime la scène et chante des tubes. Elle a grandi avec ses deux sœurs aînées dans la célèbre région de la Gruyère, à plus de 1'000 mètres d'altitude dans les Préalpes suisses. Même enfant, elle aimait chanter et yodler. À l'âge de dix ans, elle remporte le concours de chant de Düdingen et est autorisée à se produire pour la première fois au grand open air Plasselb. La performance était si bonne qu'elle a été submergée par d'autres demandes de renseignements. <br/>
@@ -128,9 +180,9 @@
 										<i data-feather="link"></i>
 									</a>
 								</p>
-								<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGironpully%2Fposts%2F285703113667645&show_text=true&width=500" width="500" height="373" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+								<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGironpully%2Fposts%2F285703113667645" height="373" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" class="w-100"></iframe>
 								<br/>
-								<p class="h3 text-center my-5">Concert de l'Orchestre Jacky Thomet</p>
+								<p class="h3 text-center my-5">Orchestre Jacky Thomet</p>
 								<img src="/images/concerts/jacky-thomet.jpeg" class="w-100" alt="Jacky Thomet"/>
 								<p>
 									Orchestre de variété jurassien, actif depuis plus de 40 ans, qui a côtoyé un grand nombre d'artistes divers et variés, autant régional qu'international. Habitué des fêtes de la bière, l'orchestre vous fera passer une soirée festive et inoubliable.<br/>
@@ -146,17 +198,20 @@
 								<b>00h30</b>
 								<i><span class="float-right"><a href="/plans/#soiree">Salle Omnisports du Collège Arnold Reymond</a></span></i>
 								<p class="text-right">
-									Ouvert à tous, 10 CHF et pass sanitaire
+									Ouvert à tous - 10 CHF
 								</p>
-								<p class="h3 text-center my-3">Soirée DJ et bar à bière</p>
+								<p class="h3 text-center my-3">Soirée DJ et bar à bières</p>
 							</li>
 						</ul>
-					</div>
-					<div class="col-md-6 py-5">
-						<h3>Samedi 21 mai</h3>
+					</div>					
+				</div>
+				<h3 class="text-center">Samedi 21 mai</h3>
+				<div class="row">
+					<div class="col-md-4 py-5">
+						<h4>Collège A. Reymond</h4>
 						<ul class="timeline">
 							<li>
-								<b>8h - 16h</b>
+								<b>8h - 13h</b>
 								<i><span class="float-right"><a href="/plans/#concours_des_solistes">Collège Arnold Reymond</a></span></i>
 								<p class="text-right">
 									Gratuit et ouvert à tous
@@ -170,8 +225,79 @@
 								</p>
 							</li>
 							<li>
-								<b>9h - 16h</b>
-								<i><span class="float-right"><a href="/plans/#concerts_des_societes">Salle de concert l'Otogone</a></span></i>
+								<b>13h - 17h</b>
+								<i><span class="float-right">Scène sur le site du Giron</span></i>
+								<p class="text-right">
+									Gratuit et ouvert à tous
+								</p>
+								<p class="h3 text-center my-3">Concerts des Sociétés</p>
+								<p>
+									
+								</p>
+							</li>
+							<li class="mt-5 pt-5">
+								<b>17h15 - 18h30</b>
+								<i><span class="float-right">Sur le site du Giron</span></i>
+								<p class="text-right">
+									Gratuit et ouvert à tous
+								</p>
+								<p class="h3 text-center my-3">Concours de Marche 🏆</p>
+								<p>
+									
+								</p>
+							</li>
+							<li>
+								<b>18h30 - 19h</b>
+								<i><span class="float-right">Sur le site du Giron</span></i>
+								<p class="text-right">
+									Gratuit et ouvert à tous
+								</p>
+								<p class="h3 text-center my-3">Morceau d'Ensemble</p>
+								<p>
+									
+								</p>
+							</li>
+							<li>
+								<b>19h</b>
+								<i><span class="float-right">Salle Omnisports du Collège Arnold Reymond</span></i>
+								<p class="text-right">
+									Gratuit et ouvert à tous
+								</p>
+								<p class="h3 text-center my-3">Concert de l'Ensemble Des Jeunes du Giron</p>
+								<p class="mb-5 text-right">
+									<a href="/ensemble-des-jeunes/" title="Ensemble des Jeunes" class="btn btn-primary">En savoir plus</a>
+								</p>
+							</li>
+							<li>
+								<b>20h</b>
+								<i><span class="float-right">Salle Omnisports du Collège Arnold Reymond</span></i>
+								<p class="text-right">
+									A destination des musiciens et officiels
+								</p>
+								<p class="h3 text-center my-3">Banquet Officiel</p>
+								<p>
+									
+								</p>
+							</li>
+							<li>
+								<b>21h</b>
+								<i><span class="float-right">Salle Omnisports du Collège Arnold Reymond</span></i>
+								<p class="text-right">
+									A destination des musiciens et officiels
+								</p>
+								<p class="h3 text-center my-3">Bal - Animation Musicale</p>
+								<p>
+									
+								</p>
+							</li>
+						</ul>
+					</div>
+					<div class="col-md-4 py-5">
+						<h4 class="mb-5 pb-5">L'Octogone</h4>
+						<ul class="timeline mt-5">
+							<li>
+								<b>10h30 - 15h30</b>
+								<i><span class="float-right"><a href="/plans/#concerts_des_societes">Salle de concert l'Octogone</a></span></i>
 								<p class="text-right">
 									Gratuit et ouvert à tous
 								</p>
@@ -183,57 +309,18 @@
 									<a href="/concours/concours-des-societes/" title="Concours des Solistes" class="btn btn-primary">En savoir plus</a>
 								</p>
 							</li>
+						</ul>
+					</div>
+					<div class="col-md-4 py-5">
+						<h4 class="mb-5 pb-5">Scène devant la Migros</h4>
+						<ul class="timeline mt-5">
 							<li>
-								<b>9h - 16h</b>
-								<i><span class="float-right">Sur le site du Giron</span></i>
+								<b>13h30 - 17h</b>
+								<i><span class="float-right">Scène devant la Migros</span></i>
 								<p class="text-right">
 									Gratuit et ouvert à tous
 								</p>
 								<p class="h3 text-center my-3">Concerts des Sociétés</p>
-								<p>
-									
-								</p>
-							</li>
-							<li>
-								<b>16h30</b>
-								<i><span class="float-right">Parcours dans Pully</span></i>
-								<p class="text-right">
-									Gratuit et ouvert à tous
-								</p>
-								<p class="h3 text-center my-3">Concours de Marche 🏆</p>
-								<p>
-									
-								</p>
-							</li>
-							<li>
-								<b>Horaire à définir</b>
-								<i><span class="float-right">Sur le site du Giron</span></i>
-								<p class="text-right">
-									Gratuit et ouvert à tous
-								</p>
-								<p class="h3 text-center my-3">Concert de l'Ensemble Des Jeunes du Giron</p>
-								<p class="mb-5 text-right">
-									<a href="/ensemble-des-jeunes/" title="Ensemble des Jeunes" class="btn btn-primary">En savoir plus</a>
-								</p>
-							</li>
-							<li>
-								<b>19h</b>
-								<i><span class="float-right">Lieu à définir</span></i>
-								<p class="text-right">
-									Réservé aux musiciens et officiels, sur réservation
-								</p>
-								<p class="h3 text-center my-3">Banquet Officiel</p>
-								<p>
-									
-								</p>
-							</li>
-							<li>
-								<b>21h</b>
-								<i><span class="float-right">Lieu à définir</span></i>
-								<p class="text-right">
-									Réservé aux musiciens et officiels, sur réservation
-								</p>
-								<p class="h3 text-center my-3">Bal - Animation Musicale</p>
 								<p>
 									
 								</p>
@@ -248,10 +335,10 @@
 				<div class="row">
 					<div class="col-md-3 my-5">
 						<a href="/societes/#belmont-sur-lausanne">
-							<img src="/images/societes/belmont-sur-lausanne.jpg" style="max-height: 96px;" alt="Belmont-sur-Lausanne"/><br/>
-							<div class="text-uppercase my-3">L'Avenir</div>
+							<img src="/images/societes/avelyre.png" style="max-height: 96px;" alt="Belmont-sur-Lausanne"/><br/>
+							<div class="text-uppercase my-3">L'AveLyre</div>
 						</a>
-						<h6>Belmont-sur-Lausanne</h6>
+						<h6>Belmont-sur-Lausanne - Cully</h6>
 					</div>
 					<div class="col-md-3 my-5">
 						<a href="/societes/#bercher_vuarrens">
@@ -267,15 +354,13 @@
 						</a>
 						<h6>Cheseaux-sur-Lausanne</h6>
 					</div>
-					<div class="col-md-3 my-5">
+					<!-- <div class="col-md-3 my-5">
 						<a href="/societes/#cully">
 							<img src="/images/societes/lyre_de_lavaux.png" style="max-height: 96px;" alt="Lyre de Lavaux"/><br/>
 							<div class="text-uppercase my-3">La Lyre de Lavaux</div>
 						</a>
 						<h6>Cully</h6>
-					</div>
-				</div>
-				<div class="row">
+					</div> -->
 					<div class="col-md-3 my-5">
 						<a href="/societes/#echallens">
 							<img src="/images/societes/lyre_echallens.png" style="max-height: 96px;" alt="Lyre Echallens"/><br/>
@@ -283,21 +368,23 @@
 						</a>
 						<h6>Echallens</h6>
 					</div>
-					<div class="col-md-3 my-5">
+				</div>
+				<div class="row">
+					<div class="col-md-4 my-5">
 						<a href="/societes/#forel_lavaux">
 							<img src="/images/societes/forel.png" style="max-height: 96px;" alt="Forel"/><br/>
 							<div class="text-uppercase my-3">Union instrumentale</div>
 						</a>
 						<h6>Forel-Lavaux</h6>
 					</div>
-					<div class="col-md-3 my-5">
+					<div class="col-md-4 my-5">
 						<a href="/societes/#mezieres">
 							<img src="/images/societes/fanfare_du_jorat.jpg" style="max-height: 96px;" alt="Fanfaure du Jorat"/><br/>
 							<div class="text-uppercase my-3">Fanfare du Jorat</div>
 						</a>
 						<h6>Mézières</h6>
 					</div>
-					<div class="col-md-3 my-5">
+					<div class="col-md-4 my-5">
 						<a href="/societes/#penthalaz_daillens">
 							<img src="/images/societes/echo_de_la_molombe.png" style="max-height: 96px;" alt="Echo de la Molombe"/><br/>
 							<div class="text-uppercase my-3">L’Echo de la Molombe</div>

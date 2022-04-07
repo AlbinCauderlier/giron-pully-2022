@@ -12,7 +12,7 @@
 	<meta name="description" content="Concours des Solistes du Giron Pully 2022"/>
 	<meta name="keywords" content="giron, pully, pully express, lavaux, Gros-de-Vaud, concours, concerts, défilé, parade"/>
 </head>
-<body id="top">
+<body id="top" data-spy="scroll" data-target="#streamer-toc" data-offset="130">
 	<?php 
 		include_once("common/header.php");
 	?>
@@ -88,29 +88,29 @@
 								<b>21.02.2022</b>
 								<p>Limite de retours des inscriptions et partitions</p>
 							</li> -->
-							<li>
+							<!-- <li>
 								<b>21.04.2022</b>
 								<i><span class="float-right">Sur cette page</span></i>
 								<p>Publication des horaires de passage Piano pour les répétitions</p>
-							</li>
+							</li> -->
 							<li>
 								<b>07.05.2022</b>
 								<i><span class="float-right">Echallens</span></i>
 								<p>
-									1ère répétition Piano<br/>
-									Répétition de l'Ensemble des jeunes toute la matinée (9h - 12h env.)
+									9h - 13h - 1ère répétition Piano<br/>
+									9h - 12h - Répétition de l'Ensemble des jeunes
 								</p>
 							</li>
 							<li>
 								<b>14.05.2022</b>
 								<i><span class="float-right">Pully</span></i>
 								<p>
-									2e répétition Piano<br/>
-									Répétition de l'Ensemble des jeunes toute la journée (9h - 16h env.)
+									9h - 13h - 2e répétition Piano<br/>
+									9h - 12h - Répétition de l'Ensemble des jeunes
 								</p>
 							</li>
 							<li>
-								<b>07 ou 20.05.2022</b>
+								<b>20.05.2022</b>
 								<i><span class="float-right">Sur cette page</span></i>
 								<p>Publication des horaires de passage au concours</p>
 							</li>
@@ -198,14 +198,14 @@
 								</a>
 							</div>
 						</div> -->
-						<hr class="my-5"/>
+<!-- 						<hr class="my-5"/>
 						<h2 id="ensemble_des_jeunes">Ensemble des Jeunes du Concours</h2>
 						<p>
 							Voici ci-dessous le formulaire d'inscription à retourner avec l'inscription au concours
 						</p>
 						<a href="/ressources/2022-Inscription-Ensemble-des-jeunes-individuel.pdf" class="my-4 btn btn-primary btn-block" target="_blank">
 							Formulaire d'inscription à l'Ensemble des Jeunes du Concours
-						</a>
+						</a> -->
 						<hr class="my-5"/>
 						<div class="row mt-5 mb-3">
 							<div class="col-md">
@@ -221,9 +221,15 @@
 						</a>
 						<hr class="my-5"/>
 						<h2 id="horaires_repetitions">Horaires des répétitions</h2>
-						<div class="text-center">
-							<label>Publication à venir</label>
+						<h4 class="my-4">Plan d'accès Echallens</h4>
+						<img src="/images/concours/echallens.png" class="w-100" alt="Plan d'accès Echallens"/><br/>
+						<h4 class="my-4">Plan d'accès Pully</h4>
+						<div class="mb-5" style="width: 100%">
+							<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5491.509583899585!2d6.660116!3d46.512964!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7603449c2ac3d971!2sColl%C3%A8ge%20Arnold%20Reymond!5e0!3m2!1sfr!2sch!4v1625224032901!5m2!1sfr!2sch"></iframe>
 						</div>
+						<a href="/ressources/concours-des-solistes/horaire-repetition-piano.pdf" class="my-4 btn btn-primary btn-block btn-lg" target="_blank">
+							Horaires des répétitions avec les pianistes
+						</a>
 						<hr class="my-5"/>
 						<h2 id="acces_college">Accès - Collège Arnold Reymond</h2>
 						<div class="mb-5" style="width: 100%">

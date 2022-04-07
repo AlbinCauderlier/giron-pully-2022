@@ -9,8 +9,46 @@
 		include_once("common/head.php");
 	?>
 
-	<meta name="description" content="Sociétés du Giron Pully 2022"/>
-	<meta name="keywords" content="giron, pully, pully express, lavaux, Gros-de-Vaud, concours, concerts, défilé, parade"/>
+	<meta name="description" content="Présentation des 12 sociétés du Giron 2022 à Pully"/>
+	<meta name="keywords" content="sociétés, fanfares, giron, pully, pully express, lavaux, Gros-de-Vaud, concours, concerts, défilé, parade"/>
+
+	<meta property="og:image" content="https://gironpully.ch/images/societes/belmont-sur-lausanne.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Belmont sur Lausanne" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/echo_du_sauteruz.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Echo du Sauteruz" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/fanfare_de_cheseaux.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Fanfare de Cheseaux" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/lyre_de_lavaux.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Lyre de Lavaux" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/lyre_echallens.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Lyre d'Echallens" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/forel.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Forel" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/fanfare_du_jorat.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Fanfare du Jorat" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/echo_de_la_molombe.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Echo de la Molombe" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/pomy-logo.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="La Villageoise - Pomy" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/echo_des_rochers_puidoux.jpeg" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:alt" content="Echo des Rochers" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/corps_de_musique_pully.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Coprs de Musique de Pully" />
+	<meta property="og:image" content="https://gironpully.ch/images/societes/fanfare_yvonand.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:alt" content="Fanfare d'Yvonand" />
+
 </head>
 <body id="top" data-spy="scroll" data-target="#streamer-toc" data-offset="130">
 	<?php 
