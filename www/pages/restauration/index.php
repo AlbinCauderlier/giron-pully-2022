@@ -21,7 +21,6 @@
         </section>
 		<section>
 			<div class="container py-5">
-				<h1>On va se mettre bien...</h1>
 				<h2>Vendredi 20 mai</h2>
 				<div class="row">
 					<div class="col-md-6">
@@ -41,7 +40,7 @@
 							Le fournisseur de l'événement sera La Chenille Gourmande, d'Oron-la-Ville.
 						</p>
 						<a href="/images/logo/logo-chenille-gourmande.jpeg" title="Chenille Gourmande" target="_blank">
-							<img src="/images/logo/logo-chenille-gourmande.jpeg" alt="Chenille Gourmande" class="w-100"/>
+							<img src="/images/logo/logo-chenille-gourmande.jpeg" alt="Chenille Gourmande" class="w-50"/>
 						</a><br/>
 						<a href='//etickets.infomaniak.com/shop/ANgLDw1YqC/' target='_blank' class="btn btn-lg btn-block text-white my-3" rel="nofollow" id="btn-banderole">
 							Réserver
@@ -59,8 +58,8 @@
 							<li>Glaces « la Brebisiane » au lait de chèvre</li>
 						</ul>
 						<p><i>
-							Ouvert pendant toute la durée du Giron<br/><br/>
-							Les prix seront affichés sur place<br/><br/>
+							Ouvert pendant toute la durée du Giron<br/>
+							Prix affichés sur place<br/>
 							Paiements en espèce (Twint en cours de souscription)
 						</i></p>
 					</div>
@@ -101,8 +100,8 @@
 						</ul>
 						<p>Accompagnements : Frites 🍟 / Salade 🥙</p>
 						<p><i>
-							Ouvert pendant toute la durée du Giron<br/><br/>
-							Les prix seront affichés sur place<br/><br/>
+							Ouvert pendant toute la durée du Giron<br/>
+							Prix affichés sur place<br/>
 							Paiements en espèce (Twint en cours de souscription)
 						</i></p>
 					</div>
