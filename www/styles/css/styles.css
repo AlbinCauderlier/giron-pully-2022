@@ -248,7 +248,7 @@ main section h1.display-4 {
   border: 4px solid #F28E1C;
 }
 
-#banderole .btn{
+#btn-banderole, #banderole .btn{
   background: #F28E1C;
 }
 

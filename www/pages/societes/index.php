@@ -434,13 +434,18 @@
 									</div>
 								</div>
 								<p>
-									La société de musique <i>L'Echo de la Molombe</i> Penthalaz-Daillens compte 35 musiciens âgés de 12 à 85 ans. Elle est née de l'union de <i>La Lyre</i> de Daillens et de <i>La Villageoise</i> de Penthalaz, en juillet 2012.
+									La Société de musique L’Echo de La Molombe Penthalaz-Daillens compte 36 musiciens âgés de 12 à
+									80 ans. Elle est née de l’union de La Lyre de Daillens et de La Villageoise de Penthalaz et fête ses 10 ans cette année.
 								</p>
 								<p>
-									Sous la direction de Jean-Pierre BOURQUIN, nos activités musicales se déroulent principalement sur nos deux communes : concerts annuels, participation aux fêtes villageoises, abbayes, 1er août ou encore Concert de Noël.
+									Sous la direction de Jean-Pierre Bourquin, nos activités musicales se déroulent principalement sur
+									nos deux communes : concerts annuels, participation aux fêtes villageoises, abbayes, 1 er août ou
+									encore concert de Noël.
 								</p>
 								<p>
-									Nous accordons une grande importance à la formation des jeunes musiciens. Ainsi, notre école de musique, membre de l'association <i>Multisite</i>, compte environ 30 élèves. En plus de l'enseignement des cuivres, de la flûte traversière, de la batterie, des percussions et de l'initiation musicale, nous proposons à présent, des cours de clarinette.
+									Nous accordons une grande importance à la formation des jeunes musiciens. Ainsi, notre école de
+									musique, membre de l’association « Multisite », compte environ 40 élèves. En plus de
+									l’enseignement des cuivres, de la flûte traversière, de la clarinette, de la batterie et des percussions, nous proposons à présent, des cours d’initiation musicale.
 								</p>
 							</div>
 						</div>

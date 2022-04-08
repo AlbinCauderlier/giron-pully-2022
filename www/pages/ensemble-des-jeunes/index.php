@@ -45,6 +45,8 @@
 						</p>
 						<div class="row my-5 text-center">
 							<div class="col-md-6 my-3">
+								<a href="/images/pierre-alexandre-marchand.jpeg" title="Pierre-Alexandre MARCHAND" target="_blank">
+								<img src="/images/pierre-alexandre-marchand.jpeg" alt="Pierre-Alexandre MARCHAND" style="max-height: 160px;"/></a><br/>
 								<b>Pierre-Alexandre Marchand</b><br/>
 								Ensemble des jeunes<br/>
 								Jurys
