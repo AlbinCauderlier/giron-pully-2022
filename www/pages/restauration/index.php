@@ -55,7 +55,7 @@
 							<li>Schübling</li>
 							<li>Frites 🍟</li>
 							<li>Glaces à l'eau</li>
-							<li>Glaces « la Brebisiane » au lait de chèvre</li>
+							<li>Glaces « la Brebisiane » au lait de brebis</li>
 						</ul>
 						<p><i>
 							Ouvert pendant toute la durée du Giron<br/>
@@ -89,7 +89,7 @@
 							<li>Burger escargot (saucisse à rôtir)</li>
 							<li>Sandwichs au jambon et au fromage 🥪</li>
 							<li>Glaces à l'eau</li>
-							<li>Glaces « la Brebisiane » au lait de chèvre</li>
+							<li>Glaces « la Brebisiane » au lait de brebis</li>
 						</ul>
 						<br/>
 						<p>Menus</p>
