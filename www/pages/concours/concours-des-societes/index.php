@@ -84,9 +84,168 @@
 						<h3 class="text-center">Le Concours des Sociétés est gratuit et ouvert à tous</h3>
 						<hr class="my-5" />
 						<h2 id="horaires_passage">Horaires de passages</h2>
-						<p>
-							Le samedi 21 mai, à partir de 9h
-						</p>
+						<ul class="timeline">
+							<li>
+								<b>10h30 - 11h</b>
+								<a href="/societes/#bercher_vuarrens">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/echo_du_sauteruz.jpg" style="max-height: 76px;" alt="Echo du Sauteruz"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Echo du Sauteruz<br/>
+												Bercher - Vuarrens
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>11h - 11h30</b>
+								<a href="/societes/#forel_lavaux">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/forel.png" style="max-height: 76px;" alt="Forel"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Union Instrumentale<br/>
+												Forel
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>11h30 - 12h</b>
+								<a href="/societes/#echallens">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/lyre_echallens.png" style="max-height: 76px;" alt="Lyre Echallens"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Harmonie Municipale La Lyre<br/>
+												Echallens
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>12h - 12h30</b>
+								<a href="/societes/#pomy">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/pomy-logo.png" style="max-height: 76px;" alt="La Villageiose - Pomy"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												La Villageoise<br/>
+												Pomy
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>12h30 - 13h</b>
+								<a href="/societes/#cheseaux_sur_lausanne">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/fanfare_de_cheseaux.jpg" style="max-height: 76px;" alt="Fanfare de Cheseaux"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Fanfare de Cheseaux<br/>
+												Cheseaux
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>14h - 14h30</b>
+								<a href="/societes/#penthalaz_daillens">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/echo_de_la_molombe.png" style="max-height: 76px;" alt="Echo de la Molombe"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Echo de la Molombe<br/>
+												Penthalaz - Daillens
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>14h30 - 15h</b>
+								<a href="/societes/#puidoux">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/echo_des_rochers_puidoux.jpeg" style="max-height: 76px;" alt="Echo des Roches - Puidoux"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Echo des Rochers<br/>
+												Puidoux
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>15h - 15h30</b>
+								<a href="/societes/#belmont_sur_lausanne">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/avelyre.png" style="max-height: 76px;" alt="Belmont-sur-Lausanne"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												L'AveLyre<br/>
+												Belmont - Cully
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>15h30 - 16h</b>
+								<a href="/societes/#mezieres">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/fanfare_du_jorat.jpg" style="max-height: 76px;" alt="Fanfare du Jorat"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Fanfare du Jorat<br/>
+												Mézières
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<b>16h - 16h30</b>
+								<a href="/societes/#yvonand">
+									<div class="row">
+										<div class="col-4">
+											<img src="/images/societes/fanfare_yvonand.png" style="max-height: 76px;" alt="Fanfare d'Yvonand"/>
+										</div>
+										<div class="col-8">
+											<div class="text-uppercase my-3 text-center">
+												Corps de Musique d'Yvonand<br/>
+												Yvonand
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
 						<hr class="my-5" />
 						<h2 id="jury">Jury</h2>
 						<div class="row">

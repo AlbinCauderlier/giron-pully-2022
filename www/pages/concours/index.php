@@ -237,9 +237,7 @@
 						</div>
 						<hr class="my-5"/>
 						<h2 id="horaires_passage">Horaires de passage</h2>
-						<div class="text-center">
-							<label>Publication à venir courant mai 2022</label>
-						</div>
+						<img src="/images/concours/horaires-de-passages.png" class="w-100 px-4" alt="Horaires de passages"/>
 						<hr class="my-5"/>
 						<h2 id="pianistes">Présentation des pianistes</h2>
 						<div class="row">

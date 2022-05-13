@@ -24,11 +24,11 @@
 				<h2>Vendredi 20 mai</h2>
 				<div class="row">
 					<div class="col-md-6">
-						<h3>Repas "Fête de la Bière" 🍻</h3>
+						<h3>Repas-Concert "Fête de la Bière" 🍻</h3>
 						<ul>
-							<li>Apéritif de bienvenue</li>
-							<li>Choucroute garnie avec : lard de jambon, saucisson, vienne, lard fumé et lard salé, pommes nature, moutarde</li>
-							<li>Glace</li>
+							<li class="mb-3">Apéritif de bienvenue</li>
+							<li class="mb-3">Choucroute garnie avec : lard de jambon, saucisson, vienne, lard fumé et lard salé, pommes nature, moutarde</li>
+							<li class="mb-3">Glace</li>
 						</ul>
 						<p>
 							Plusieurs bières seront proposées au verre. 🍺
@@ -55,12 +55,18 @@
 							<li>Schübling</li>
 							<li>Frites 🍟</li>
 							<li>Glaces à l'eau</li>
-							<li>Glaces « la Brebisiane » au lait de brebis</li>
+							<li>Glaces « la Brebisane » au lait de brebis</li>
 						</ul>
+						<br/>
+						<p>Menus</p>
+						<ul>
+							<li>1. Saucisse de veau ou Schübling</li>
+							<li>2. Tranche de porc marinée</li>
+						</ul>
+						<p>Accompagnements : Frites 🍟 / Salade 🥙</p>
 						<p><i>
-							Ouvert pendant toute la durée du Giron<br/>
 							Prix affichés sur place<br/>
-							Paiements en espèce (Twint en cours de souscription)
+							Paiements en espèce, carte bancaire et Twint
 						</i></p>
 					</div>
 				</div>
@@ -89,7 +95,7 @@
 							<li>Burger escargot (saucisse à rôtir)</li>
 							<li>Sandwichs au jambon et au fromage 🥪</li>
 							<li>Glaces à l'eau</li>
-							<li>Glaces « la Brebisiane » au lait de brebis</li>
+							<li>Glaces « la Brebisane » au lait de brebis</li>
 						</ul>
 						<br/>
 						<p>Menus</p>
@@ -100,9 +106,8 @@
 						</ul>
 						<p>Accompagnements : Frites 🍟 / Salade 🥙</p>
 						<p><i>
-							Ouvert pendant toute la durée du Giron<br/>
 							Prix affichés sur place<br/>
-							Paiements en espèce (Twint en cours de souscription)
+							Paiements en espèce, carte bancaire et Twint
 						</i></p>
 					</div>
 				</div>

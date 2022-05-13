@@ -76,11 +76,6 @@
 										Cheseaux-sur-Lausanne
 									</a>
 								</li>
-								<!-- <li class="nav-item">
-									<a href="#cully" title="" class="nav-link border-left py-3">
-										Cully
-									</a>
-								</li> -->
 								<li class="nav-item">
 									<a href="#echallens" title="" class="nav-link border-left py-3">
 										Echallens
@@ -142,26 +137,11 @@
 										<a href="https://www.facebook.com/Soci%C3%A9t%C3%A9-de-Musique-Lavenir-de-Belmont-sur-Lausanne-293370404068571" rel="nofollow" target="_blanck" class="social social-facebook">
 											<i data-feather="facebook"></i>
 										</a>
-										<!-- <a href="http://www.avenir-belmont.ch" rel="nofollow" target="_blanck" class="social social-instagram">
-											<i data-feather="instagram"></i>
-										</a> -->
 									</div>
 								</div>
 								<p>
 									C’est sous ce patronyme que se présentent les sociétés de musique L’Avenir de Belmont-sur-Lausanne et La Lyre de Lavaux de Cully. En effet, depuis l’automne 2014, les deux sociétés se sont associées pour la pratique de la musique. Cela leur permet maintenant, vu l’effectif de près de 35 souffleurs, de choisir des titres dans un répertoire plus étoffé et d’interpréter des pièces d’un niveau plus élevé. Preuve en est, lors de la fête cantonale du Brassus, ou nous avons obtenu la 2e place en harmonie 3e division. Depuis maintenant trois ans, Gian-Marco Raffaele tient la baguette de l’ensemble et nous avons remporté un franc succès lors des dernières soirées annuelles. Chaque société a conservé son identité ainsi que son école de musique et déjà plusieurs jeunes musiciens qui en sont issus, ont rejoint nos rangs pour notre plus grand plaisir. Cela nous encourage à poursuivre nos efforts, tout en ayant beaucoup de plaisir à pratiquer notre hobby préféré. A bientôt à Pully pour le giron 2022.
 								</p>
-								<!-- <p>
-									<i>L'AveLyre</i>, c'est sous ce patromyme que se présentent les sociétés de musique <i>L'Avenir</i> de Belmont-sur-Lausanne et <i>La Lyre de Lavaux</i> de Cully. En effet, depuis l'automne 2014, les deux sociétés se sont associées pour la pratique de la musique.
-								</p>
-								<p>
-									Cela leur permet maintenant, vu l'effectif de près de 35 souffleurs, de choisir des titres dans un répertoire plus étoffé et d'interpréter des pièces d'un niveau plus élevé.
-								</p>
-								<p>
-									Preuve en effet, lors de la Fête Cantonale du Brassus, où nous avons obtenu la 2ème place en harmonie 3ème division. Depuis l'automne passé, Gian Marco Raffaele tient la baguette de l'ensemble et nous avons remporté un franc succès lors des dernières soirées annuelles.
-								</p>
-								<p>
-									Chaque société a conservé son identité ainsi que son école de musique et déjà plusieurs jeunes musiciens qui en sont issus, ont rejoint nos rangs pour ntore plus grand plaisir. Cela nous encourage à poursuivre nos efforts, tout en ayant beaucoup de plaisir à pratiquer notre hobby préféré.
-								</p> -->
 							</div>
 						</div>
 						<h2 id="bercher_vuarrens" class="panel">Bercher-Vuarrens</h2>
@@ -247,32 +227,9 @@
 									Nous nous réjouissons de participer à ce Giron et souhaitons, d’ores et déjà, plein succès au
 									Corps de Musique de Pully dans l’organisation de cette manifestation.
 								</p>
+								<img src="/images/societes/groupe/cheseaux.jpeg" class="w-100" alt="Photo de groupe de la Fanfare de Cheseaux"/>
 							</div>
 						</div>
-						<!-- <h2 id="cully" class="panel">Cully</h2>
-						<div class="row my-5">
-							<div class="col-md-3">
-								<img src="/images/societes/lyre_de_lavaux.png" class="societe_blason" alt="La Lyre de Lavaux"/>
-							</div>
-							<div class="col-md-9">
-								<div class="row">
-									<div class="col">
-										<h3>La Lyre de Lavaux</h3>
-									</div>
-									<div class="col-auto">
-										<a href="http://lyredelavaux.ch/" rel="nofollow" target="_blanck" class="social social-website">
-											<i data-feather="link"></i>
-										</a>
-										<a href="https://www.facebook.com/groups/252065981500404/" rel="nofollow" target="_blanck" class="social social-facebook">
-											<i data-feather="facebook"></i>
-										</a>
-									</div>
-								</div>
-								<p>
-									...
-								</p>
-							</div>
-						</div> -->
 						<h2 id="echallens" class="panel">Echallens</h2>
 						<div class="row my-5">
 							<div class="col-md-3">
@@ -302,16 +259,6 @@
 								<p>
 									Et qui centenaire dit jubilé que nous ne manquerons pas de fêter en 2023 !
 								</p>
-<!-- 
-								<p>
-									Fondée en 1923, La Lyre s'est tout d'abord développée en formation Fanfare (cuivre et percussions). En 1991, elle a adopté sa formation actuelle (bois, cuivres, et percussions), devenant par la même occasion l'<i>Harmonie Municipale d'Echallens</i>.
-								</p>
-								<p>
-									Elle dispose aujourd'hui d'une instrumentation complète réunissant plus de 60 musiciens et peut, par conséquent, aborder un répertoire étendu, allant de la musique originale pour orchestre d'harmonie aux transcriptions d'oeuvres classiques ou de variétés les plus diverses. Cet éclectisme lui permet de répondre aux attentes les plus vastes, qu'elles viennent de son public ou de ses propres musiciens.
-								</p>
-								<p>
-									La moyenne d'âge de ses membres flirte avec la trentaine, musiciennes et musiciens y sont représentés à peu près en quantités égales, pour le plus grand bonheur des amateurs d'ambiances animées et de conversations variées, outre que de bonne musique.
-								</p> -->
 							</div>
 						</div>
 						<h2 id="forel_lavaux" class="panel">Forel Lavaux</h2>
@@ -345,21 +292,7 @@
 								<p>
 									Après deux années malheureuses sans giron, l’Union Instrumentale de Forel (Lavaux), dirigée par Monsieur Stéphane Duboux, se réjouit de participer au Giron des Musiques de Lavaux et du Gros-de-Vaud à Pully.
 								</p>
-								<!-- <p>
-									A bientôt cent ans, l'<i>Union Instrumentale</i> de Forel poursuit sa route musicale avec passion. Elle compte actuellement plus d'une quarantaine de membres actifs, mélangeant jeunes adolescents et grands-parents, agricullteurs et étudiants, se réunissant chaque mercredi soir pour partager un moment musical et amical.
-								</p>
-								<p>
-									Comme son nom ne l'indique pourtant pas, elle dispose en fait d'un bassin de population qui recouvre également la Commune voisine de Savigny.
-								</p>
-								<p>
-									Elle évolue en première catégorie Brass Band, et se produit régulièrement, que ce soit pour des services officiels de nos deux communes (Forel et Savigny), ou lors de concerts divers comme nos soirées annuelles au début de chaque année. La société participe régulièrement aux fêtes régionales, cantonales et fédérales, où elle obtient des résultats très honorables. En outre, quelques sorties en dehors du canton et à l'étranger ont contribué à resserrer les liens d'amitié qui existent entre musiciennes et musiciens.
-								</p>
-								<p>
-									Nous vous encourageons à venir découvrir notre société vivante et dynamique, qui reste toutefois attachée aux traditions de la musique instrumentale.
-								</p>
-								<p>
-									L'<i>Union Instrumentale</i> de Forel (Lavaux) est dirigée par Monsieur Stéphane DUBOUX.
-								</p> -->
+								<img src="/images/societes/groupe/forel.jpg" class="w-100" alt="Union Instrumentale de Forel Lavaux"/>
 							</div>
 						</div>
 						<h2 id="mezieres" class="panel">Mézières</h2>
@@ -400,18 +333,7 @@
 									amicaux. Nous souhaitons plein succès au <i>Corps de Musique de Pully</i> pour l’organisation du Giron
 									2022.
 								</p>
-								<!-- <p>
-									La fanfare du Jorat a été fondée le 15 septembre 1896, avec comme but de cultiver et développer la musique instrumentale ainsi que de contribuer à l'agrément de la contrée du Jorat.
-								</p>
-								<p>
-									C'est actuellement, toujours avec le même état d'esprit que les quelques 30 musiciens et musiciennes ont le plaisir de pratiquer la musique de cuivres.
-								</p>
-								<p>
-									Son école de musique apporte une formation instrumentale (cuivres et percussions) à une dizaine d'élèves de la région. Cette formation est assurée par des enseignants professionnels.
-								</p>
-								<p>
-									La Fanfare du Jorat se présente désormais en 2ème catégorie Brass Band lors des différents concours contonaux ou fédéraux. Depuis l'automne 2013, la direction musicale est assurée par Monsieur David AEBI, qui mène l'ensemble avec talent et passion.
-								</p> -->
+								<img src="/images/societes/groupe/mezieres.jpg" class="w-100" alt="Fanfare du Jorat - Mezieres"/>
 							</div>
 						</div>
 						<h2 id="penthalaz_daillens" class="panel">Penthalaz-Daillens</h2>
@@ -447,6 +369,7 @@
 									musique, membre de l’association « Multisite », compte environ 40 élèves. En plus de
 									l’enseignement des cuivres, de la flûte traversière, de la clarinette, de la batterie et des percussions, nous proposons à présent, des cours d’initiation musicale.
 								</p>
+								<img src="/images/societes/groupe/penthalaz-daillens.jpg" class="w-100" alt="Echo de la Molombe"/>
 							</div>
 						</div>
 						<h2 id="pomy" class="panel">Pomy</h2>
@@ -608,18 +531,7 @@
 									Nous souhaitons au Corps de Musique de Pully un superbe giron sans contraintes et que la fête soit
 									belle.
 								</p>
-								<!-- <p>
-									Le Corps de Musique d'Yvonnand est né le 25 mars 1920 de la fusion de 'l<i>Avenir</i> et de l'<i>Espérance</i>, deux petites fanfares en activité à Yvonnand au début du siècle passé.
-								</p>
-								<p>
-									La formation regroupe 35 musiciens jouant du cuivre, de la percussion ou du tambour. La plupart des membres proviennent d'Yvonnand et des villages autour (Molondin, Démoret, Donneloye, Bioley-Magnoux).
-								</p>
-								<p>
-									L'ensemble, dirigé par Monsieur Nicolas MOGNETTI depuis 2018, joue en formation Brass Band en troisième division.
-								</p>
-								<p>
-									Pour la formation des jeunes, l'école de musique a groupé ses forces avce celle de la fanfare <i>La Villageoise</i> de Pomy pour créer l'<i>Ecole de Musique de Pomy-Yvonnand (EMPY)</i>.
-								</p> -->
+								<img src="/images/societes/groupe/yvonand.jpeg" class="w-100" alt="Yvonand"/>
 							</div>
 						</div>
 					</div>

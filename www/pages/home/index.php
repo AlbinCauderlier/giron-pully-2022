@@ -114,8 +114,11 @@
 								<h3>Vendredi 20 mai<h3>
 								<h4>Apéritif / Repas-concert / 3 Groupes invités et DJ jusqu'au bout de la nuit</h4>
 								<a href='//etickets.infomaniak.com/shop/ANgLDw1YqC/' target='_blank' class="btn btn-lg btn-block text-white my-3" rel="nofollow">
-									Réserver mes places
+									Réserver mes places avant le 15 mai
 								</a>
+								<p class="text-center">
+									😁 Le port du masque et le certificat Covid Ne seront Pas requis lors de la Soirée 😁
+								</p>
 							</div>
 						</div>
 					</div>
@@ -147,10 +150,20 @@
 		<section>
 			<div class="container-fluid">
 				<h2 class="text-center my-5">Programme</h2>
+				<p class="text-center">
+					😁 Le port du masque et le certificat Covid Ne seront Pas requis lors du Giron 😁
+				</p>
 				<div class="row">
 					<div class="col-md-6 py-5 mx-auto">
 						<h3 class="text-center">Vendredi 20 mai</h3>
 						<ul class="timeline">
+							<li>
+								<b>17h30</b>
+								<p>
+									Ouverture de la place de fête (tonnelle, snacks)
+								</p>
+							</li>
+							
 							<li>
 								<b>19h</b>
 								<i><span class="float-right"><a href="/plans/#soiree">Salle Omnisports du Collège Arnold Reymond</a></span></i>
@@ -161,9 +174,14 @@
 								<a href='//etickets.infomaniak.com/shop/ANgLDw1YqC/' target='_blank' class="btn btn-primary btn-lg btn-block my-3" rel="nofollow">
 									Réserver mes places
 								</a>
-								<p>Apéritif</p>
-								<p>Bar et ambiance</p>
-								<p>Repas-concert autour de la Choucroute</p>
+								<p class="text-center">
+									Pour pouvoir profiter du repas et des concerts, il est impératif que vous commandiez votre billet au plus tard le 15 mai 2022 à 20h
+								</p>
+								<p class="text-center">
+									Apéritif<br/>
+									Bar et ambiance<br/>
+									Repas-concert autour de la Choucroute
+								</p>
 								<p class="h3 text-center my-5">Ensemble de Cuivres Bavaria</p>
 								<img src="/images/concerts/ec-bavaria.jpeg" class="w-100" alt="Bavaria"/>
 								<p>
