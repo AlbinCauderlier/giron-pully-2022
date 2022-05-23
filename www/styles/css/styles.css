@@ -462,11 +462,11 @@ aside nav a.nav-link.active{
   background-color: #e9ecef !important;
 }*/
 
-/*.polygone {
-  -webkit-clip-path: polygon(0 4%, 100% 0, 100% 100%, 0 96%);
-  clip-path: polygon(0 4%, 100% 0, 100% 100%, 0 96%);
+.polygone {
+  -webkit-clip-path: polygon(0% 25%, 100% 0%, 100% 75%, 0% 100%);
+  clip-path: polygon(0% 25%, 100% 0%, 100% 75%, 0% 100%);
   width: 100%;
-}*/
+}
 
 
 header .btn .feather,

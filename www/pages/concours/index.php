@@ -28,21 +28,21 @@
 					<aside class="col-md-2 d-none d-sm-block">
 						<nav class="p-0" id="streamer-toc">
 							<ul class="list-unstyled navbar-list mb-0"> 
-								<li class="nav-item">
+								<!-- <li class="nav-item">
 									<a href="#planning" title="" class="nav-link border-left py-3">
 										Planning
 									</a>
 								</li>
-								<!-- <li class="nav-item">
+								<li class="nav-item">
 									<a href="#inscriptions" title="" class="nav-link border-left py-3">
 										Inscriptions
 									</a>
-								</li> -->
+								</li>
 								<li class="nav-item">
 									<a href="#ensemble_des_jeunes" title="" class="nav-link border-left py-3">
 										Ensemble des Jeunes du Concours
 									</a>
-								</li>
+								</li> -->
 								<li class="nav-item">
 									<a href="#reglement" title="" class="nav-link border-left py-3">
 										Règlement
@@ -77,22 +77,22 @@
 						</nav>
 					</aside>
 					<div class="col-md-10">
-						<h2 id="planning">Planning</h2>
+						<!-- <h2 id="planning">Planning</h2>
 						<ul class="timeline">
-							<!-- <li>
+							<li>
 								<b>21.01.2022</b>
 								<i><span class="float-right">Sur cette page</span></i>
 								<p>Ouverture des inscriptions</p>
-							</li> -->
-							<!-- <li>
+							</li>
+							<li>
 								<b>21.02.2022</b>
 								<p>Limite de retours des inscriptions et partitions</p>
-							</li> -->
-							<!-- <li>
+							</li>
+							<li>
 								<b>21.04.2022</b>
 								<i><span class="float-right">Sur cette page</span></i>
 								<p>Publication des horaires de passage Piano pour les répétitions</p>
-							</li> -->
+							</li>
 							<li>
 								<b>07.05.2022</b>
 								<i><span class="float-right">Echallens</span></i>
@@ -120,11 +120,16 @@
 								<p>Passages</p>
 							</li>
 							<li>
-								<b>Date à définir</b>
+								<b>23.05.2022</b>
 								<i><span class="float-right">Sur cette page</span></i>
 								<p>Publication des résultats</p>
 							</li>
 						</ul>
+						<hr class="my-5"/> -->
+						<h2 id="resultats">Résultats</h2>
+						<a class="btn btn-block btn-primary btn-lg" role="button" href="/ressources/concours-des-solistes/resultats-concours-solistes.pdf" target="_blank">
+							Résultats du Concours
+						</a>
 						<!-- <hr class="my-5"/>
 						<h2 id="inscriptions">Inscription</h2>
 						<p>
@@ -237,6 +242,9 @@
 						</div>
 						<hr class="my-5"/>
 						<h2 id="horaires_passage">Horaires de passage</h2>
+						<a href="/ressources/concours-des-solistes/ordre-passage-concours.pdf" class="my-4 btn btn-primary btn-block btn-lg" target="_blank">
+							Ordre de passage
+						</a>
 						<img src="/images/concours/horaires-de-passages.png" class="w-100 px-4" alt="Horaires de passages"/>
 						<hr class="my-5"/>
 						<h2 id="pianistes">Présentation des pianistes</h2>

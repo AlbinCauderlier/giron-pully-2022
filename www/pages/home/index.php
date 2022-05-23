@@ -73,11 +73,11 @@
 			<div class="container py-5">
 				<div class="row">
 					<div class="col-md-6">
-						<div class="text-center my-5">
+						<div class="text-center">
 							<img src="/images/logo/logo-pully-express-reduced.png" style="max-height:320px;" alt="Pully Express"/>
 						</div>
 					</div>
-					<div class="col-md-6 my-3">
+					<div class="col-md-6">
 						<h1 class="my-5 text-center"><?= WEBSITE_TITLE ?></h1>
 	                    <div class="form-row">
 	                        <div class="col-md-6">
@@ -97,13 +97,13 @@
 	                            </fieldset>
 	                        </div>
 	                    </div>
-		                <div id="clockdiv" class="text-center my-4">
+		                <!-- <div id="clockdiv" class="text-center my-4">
 		                	<h2>Départ dans</h2>
 							<span class="days"></span> jours - <span class="hours"></span> : <span class="minutes"></span> : <span class="seconds"></span>
-						</div>
+						</div> -->
 					</div>
 				</div>
-				<div class="card shadow" id="banderole">
+				<!-- <div class="card shadow" id="banderole">
 					<div class="card-body">
 						<div class="row">
 							<div class="col-md-3 text-center">
@@ -121,6 +121,29 @@
 								</p>
 							</div>
 						</div>
+					</div>
+				</div> -->
+			</div>
+		</section>
+		<section class="polygone bg-gradient my-5">
+			<div class="container-fluid">
+				<h3 class="text-white text-center pt-5">Terminus</h3>
+				<h1 class="text-white text-center pb-5">Merci !</h1>
+			</div>
+		</section>
+		<section class="my-5">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6">
+						<a class="btn btn-block btn-primary btn-lg" role="button" href="/ressources/concours-des-solistes/resultats-concours-solistes.pdf" target="_blank">
+							Résultats du Concours des Solistes
+						</a>
+					</div>
+					<div class="col-md-6 text-center">
+						<h3>🏆 Résultat du Concours de Marche</h3>
+						<b>🥇 1er - L'AveLyre - Belmont-Cully</b><br/>
+						🥈 2ème - Fanfare du Jorat - Mézières<br/>
+						🥉 3ème - Union Instrumentale - Forel
 					</div>
 				</div>
 			</div>
@@ -150,10 +173,10 @@
 		<section>
 			<div class="container-fluid">
 				<h2 class="text-center my-5">Programme</h2>
-				<p class="text-center">
+				<!-- <p class="text-center">
 					😁 Le port du masque et le certificat Covid Ne seront Pas requis lors du Giron 😁
-				</p>
-				<div class="row">
+				</p> -->
+				<!-- <div class="row">
 					<div class="col-md-6 py-5 mx-auto">
 						<h3 class="text-center">Vendredi 20 mai</h3>
 						<ul class="timeline">
@@ -247,7 +270,7 @@
 							</li>
 						</ul>
 					</div>					
-				</div>
+				</div> -->
 				<h3 class="text-center">Samedi 21 mai</h3>
 				<div class="row">
 					<div class="col-md-4 py-5">

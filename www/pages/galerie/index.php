@@ -39,7 +39,7 @@
 					</div>
 				</div>
 				<hr class="my-5"/>
-				<a class="twitter-timeline" data-lang="fr" data-chrome="nofooter" href="https://twitter.com/GironPully">Tweets de Giron Pully</a>
+				<!-- <a class="twitter-timeline" data-lang="fr" data-chrome="nofooter" href="https://twitter.com/GironPully">Tweets de Giron Pully</a> -->
 			</div>
 		</section>
 	</main>
