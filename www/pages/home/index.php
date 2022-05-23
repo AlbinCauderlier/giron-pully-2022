@@ -134,12 +134,12 @@
 		<section class="my-5">
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-6 my-4">
 						<a class="btn btn-block btn-primary btn-lg" role="button" href="/ressources/concours-des-solistes/resultats-concours-solistes.pdf" target="_blank">
 							Résultats du Concours des Solistes
 						</a>
 					</div>
-					<div class="col-md-6 text-center">
+					<div class="col-md-6 text-center my-4">
 						<h3>🏆 Résultat du Concours de Marche</h3>
 						<b>🥇 1er - L'AveLyre - Belmont-Cully</b><br/>
 						🥈 2ème - Fanfare du Jorat - Mézières<br/>
